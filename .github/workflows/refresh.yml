@@ -67,30 +67,6 @@ jobs:
           git diff --cached --quiet || git commit -m "nightly refresh $(date -u +%F)"
           git push
 
-      # OPTIONAL: mirror the guide to a small PUBLIC repo with GitHub Pages on,
-      # giving a stable always-current URL (https://<owner>.github.io/<repo>/)
-      # that ND Learning (WordPress) or any site can iframe/link. Configure by
-      # creating the public repo + setting repo Variable PAGES_REPO
-      # (e.g. "youruser/odl-guide-site") and Secret PAGES_TOKEN (a fine-grained
-      # PAT with contents:write on that one repo). Unconfigured -> skipped.
-      # The bundle is PII-safe by design: aggregate statistics only.
-      - name: Mirror the guide to the public Pages repo (optional)
-        env:
-          PAGES_REPO: ${{ vars.PAGES_REPO }}
-          PAGES_TOKEN: ${{ secrets.PAGES_TOKEN }}
-        run: |
-          if [ -z "$PAGES_REPO" ] || [ -z "$PAGES_TOKEN" ]; then
-            echo "Pages mirror not configured (vars.PAGES_REPO + secrets.PAGES_TOKEN) — skipping"
-            exit 0
-          fi
-          git clone --depth 1 "https://x-access-token:${PAGES_TOKEN}@github.com/${PAGES_REPO}.git" /tmp/pages
-          cp faculty_guide/canvas_upload/ODL_Faculty_Onboarding_Guide.html /tmp/pages/index.html
-          cd /tmp/pages
-          git config user.name "odl-refresh-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add index.html
-          git diff --cached --quiet || { git commit -m "nightly guide update"; git push; }
-
       - name: Keep artifacts (report, calibration, charts, bundle)
         uses: actions/upload-artifact@v4
         with:

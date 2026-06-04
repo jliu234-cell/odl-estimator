@@ -72,6 +72,21 @@ JavaScript runs because Canvas serves the files from its own (auto-allowlisted) 
 > **admin** to add the domain to *Admin → Settings → Security → Content Security Policy → Allowed
 > Domains*. The Files route above avoids that entirely.
 
+## Linking from the ND Learning website (the "button")
+
+The website side is a plain hyperlink — like the "Let's Work Together" link on
+`learning.nd.edu/about/odl/` — and needs **zero maintenance**: the nightly refresh
+swaps file ids *behind* the Canvas Page, but the Page URL itself never changes.
+
+1. **Make the Canvas course viewable without enrollment:** course **Settings →
+   Visibility → "Institution"** (any ND login; keeps internal effort numbers
+   login-gated, per the Director's preference) — or "Public" if ODL decides so.
+   Make sure the embed Page is **Published**.
+2. **Ask Ted** to add the CTA on `/about/odl/`:
+   label **"Plan Your Project →"**, href
+   `https://canvas.nd.edu/courses/<COURSE_ID>/pages/<PAGE_SLUG>`.
+3. That's it. If the guide ever moves, update one href on one page.
+
 ---
 
 ## LAYER 2 — Add Pria as the AI bot
