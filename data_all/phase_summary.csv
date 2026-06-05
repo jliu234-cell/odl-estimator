@@ -205,7 +205,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1207760971753716,FCTA - Physics I,Post-Production,5,2,3,2025-12-11T15:35:57.079000+00:00,2026-01-07T20:46:07.377000+00:00,27,300.0,5.0,11,0,0,0.2
 1207760971753716,FCTA - Physics I,Pre-Production,7,4,2,2025-08-28T17:16:50.375000+00:00,2025-11-07T17:27:02.345000+00:00,71,640.0,10.67,1,0,0,0.14
 1207760971753716,FCTA - Physics I,Production,3,2,1,2025-08-24T21:31:59.570000+00:00,2026-01-07T20:45:58.977000+00:00,136,600.0,10.0,11,0,0,0.33
-1207760971753716,FCTA - Physics I,Testimonials,1,0,0,,,,330.0,5.5,0,0,0,1.0
+1207760971753716,FCTA - Physics I,Testimonials,1,0,0,,,,360.0,6.0,0,0,0,1.0
 1213077276586762,FCTA - Physics II,Design,3,2,0,2026-02-02T03:52:44.093000+00:00,2026-02-02T03:52:44.653000+00:00,0,0.0,0.0,1,0,0,0.33
 1213077276586762,FCTA - Physics II,Post Project Evaluation,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1213077276586762,FCTA - Physics II,Post-Production,5,2,0,2026-02-02T03:52:49.415000+00:00,2026-02-02T03:52:49.939000+00:00,0,0.0,0.0,11,0,0,0.2
@@ -294,14 +294,14 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1211654114707733,ND-IBM Tech Ethics Lab Video Content Development,Production,3,0,0,,,,0.0,0.0,0,0,0,0.33
 1211654114707733,ND-IBM Tech Ethics Lab Video Content Development,Untitled section,4,3,4,2025-10-06T16:46:25.210000+00:00,2025-10-14T17:23:16.591000+00:00,8,0.0,0.0,0,0,0,0.25
 1207760971753720,NDIAS Teaching Fellows - Global Catholicism,Untitled section,1,1,0,2025-02-03T14:28:43.527000+00:00,2025-02-03T14:28:43.527000+00:00,0,0.0,0.0,0,0,0,1.0
-1213292120696339,NEON - POS 30022 (Poly Sci),Analysis,3,0,1,,,,0.0,0.0,0,0,0,0.33
-1213292120696339,NEON - POS 30022 (Poly Sci),Design,13,1,2,2026-03-06T17:44:06.133000+00:00,2026-03-06T17:44:06.133000+00:00,0,600.0,10.0,0,0,0,0.08
-1213292120696339,NEON - POS 30022 (Poly Sci),Design Development,6,0,2,,,,0.0,0.0,0,0,0,0.17
-1213292120696339,NEON - POS 30022 (Poly Sci),Media Timetracking,15,0,0,,,,360.0,6.0,0,0,0,0.07
-1213292120696339,NEON - POS 30022 (Poly Sci),Post-Production,3,0,0,,,,0.0,0.0,0,0,0,0.33
-1213292120696339,NEON - POS 30022 (Poly Sci),Post-Project Evaluation,5,0,1,,,,0.0,0.0,0,0,0,0.2
-1213292120696339,NEON - POS 30022 (Poly Sci),Pre-Production,9,0,1,,,,120.0,2.0,0,0,0,0.11
-1213292120696339,NEON - POS 30022 (Poly Sci),Production,7,0,1,,,,0.0,0.0,3,0,0,0.14
+1213292120696339,NEON - POLS 30022 (Poly Sci),Analysis,3,0,1,,,,0.0,0.0,0,0,0,0.33
+1213292120696339,NEON - POLS 30022 (Poly Sci),Design,13,1,2,2026-03-06T17:44:06.133000+00:00,2026-03-06T17:44:06.133000+00:00,0,600.0,10.0,0,0,0,0.08
+1213292120696339,NEON - POLS 30022 (Poly Sci),Design Development,6,0,2,,,,0.0,0.0,0,0,0,0.17
+1213292120696339,NEON - POLS 30022 (Poly Sci),Media Timetracking,15,0,0,,,,390.0,6.5,0,0,0,0.07
+1213292120696339,NEON - POLS 30022 (Poly Sci),Post-Production,3,0,0,,,,0.0,0.0,0,0,0,0.33
+1213292120696339,NEON - POLS 30022 (Poly Sci),Post-Project Evaluation,5,0,1,,,,0.0,0.0,0,0,0,0.2
+1213292120696339,NEON - POLS 30022 (Poly Sci),Pre-Production,9,0,1,,,,120.0,2.0,0,0,0,0.11
+1213292120696339,NEON - POLS 30022 (Poly Sci),Production,7,0,1,,,,0.0,0.0,3,0,0,0.14
 1213292120696334,NEON - R&E AI,Analysis,3,0,1,,,,0.0,0.0,0,0,0,0.33
 1213292120696334,NEON - R&E AI,Design,8,3,2,2026-03-06T17:46:04.303000+00:00,2026-03-06T17:46:06.609000+00:00,0,0.0,0.0,0,0,0,0.12
 1213292120696334,NEON - R&E AI,Design Development,5,0,2,,,,0.0,0.0,0,0,0,0.2
@@ -473,7 +473,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1212638027964018,Ultrasound Communication Video,Analysis,3,0,0,,,,0.0,0.0,0,0,0,0.33
 1212638027964018,Ultrasound Communication Video,Design,9,1,0,2026-04-30T14:25:03.308000+00:00,2026-04-30T14:25:03.308000+00:00,0,270.0,4.5,0,0,0,0.11
 1212638027964018,Ultrasound Communication Video,Design Development,4,0,0,,,,0.0,0.0,0,0,0,0.25
-1212638027964018,Ultrasound Communication Video,Media Timetracking,16,0,1,,,,465.0,7.75,0,0,0,0.06
+1212638027964018,Ultrasound Communication Video,Media Timetracking,16,0,1,,,,510.0,8.5,0,0,0,0.06
 1212638027964018,Ultrasound Communication Video,Post-Production,9,0,0,,,,0.0,0.0,0,0,0,0.11
 1212638027964018,Ultrasound Communication Video,Post-Project Evaluation,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1212638027964018,Ultrasound Communication Video,Pre-Production,7,1,0,2026-06-01T14:45:52.878000+00:00,2026-06-01T14:45:52.878000+00:00,0,30.0,0.5,0,0,0,0.14

@@ -30,7 +30,7 @@
   // === BEGIN CALIBRATION (machine-generated — do not edit by hand) ==========
   var CALIBRATION =
   {
-    "provenance": "data_all/time_entries.csv (2,342 entries, 2063.8h, 2024-08-19..2026-06-04, ODL staff time) | 25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
+    "provenance": "data_all/time_entries.csv (2,345 entries, 2065.5h, 2024-08-19..2026-06-05, ODL staff time) | 25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
     "generated_from": "data_all/derived/calibration.json -- run inject_calibration.py to refresh",
     "archetypeEffort": {
       "course_redesign": {
@@ -55,10 +55,10 @@
         "n": 3,
         "values": [
           12.0,
-          12.8,
+          13.5,
           15.5
         ],
-        "p50": 12.8,
+        "p50": 13.5,
         "note": "n<4 -- raw values shown; interpolated quartiles withheld"
       },
       "video_series": {
@@ -94,12 +94,12 @@
         "n": 5,
         "min": 7.3,
         "p25": 12.0,
-        "p50": 12.8,
+        "p50": 13.5,
         "p75": 13.7,
         "p80": 14.1,
         "max": 15.5
       },
-      "blendedGenericP50": 11.2,
+      "blendedGenericP50": 11.6,
       "shrinkageW": 0.62
     },
     "mediaSplitPct": {
@@ -114,10 +114,10 @@
       "Development/Build": 18.3,
       "Pre-Production": 18.1,
       "Design": 8.8,
-      "Other / unsorted": 0.6,
+      "Other / unsorted": 0.7,
       "Discovery": 0.5
     },
-    "coursePhaseMixBasis": "pooled non-PM hours of 14 full-coverage full_course projects (851.0h)",
+    "coursePhaseMixBasis": "pooled non-PM hours of 14 full-coverage full_course projects (852.0h)",
     "calendarWeeks": {
       "consult_or_studio": {
         "n": 1,

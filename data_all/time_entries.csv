@@ -19,6 +19,7 @@ project_gid,project_name,task_gid,task_name,section,canonical_phase,assignee,res
 1207760971753716,FCTA - Physics I,1210500157953013,Filming,Production,Production,Kevin DeCloedt,,Kevin DeCloedt,2025-08-28,300.0,5.0
 1207760971753716,FCTA - Physics I,1211900407808671,Canvas site build,Post-Production,Post-Production,Brianna Stines,,Brianna Stines,2025-10-30,300.0,5.0
 1207760971753716,FCTA - Physics I,1215382849227821,Time Estimates,Testimonials,Testimonials,,,Matthew Simmons,2026-06-03,240.0,4.0
+1207760971753716,FCTA - Physics I,1215382849227821,Time Estimates,Testimonials,Testimonials,,,Matthew Simmons,2026-06-04,30.0,0.5
 1207760971753716,FCTA - Physics I,1215382849227821,Time Estimates,Testimonials,Testimonials,,,Matthew Simmons,2026-06-04,90.0,1.5
 1207816481565083,Gen Chem Intro Video ,1207816491518204,Filming,Production,Production,John Corba,,John Corba,2024-08-19,90.0,1.5
 1207816481565083,Gen Chem Intro Video ,1207816486599309,Editing,Post-Production,Post-Production,John Corba,,John Corba,2024-08-19,540.0,9.0
@@ -1548,6 +1549,7 @@ project_gid,project_name,task_gid,task_name,section,canonical_phase,assignee,res
 1212638027964018,Ultrasound Communication Video,1214759223916115,5/4 - 5/8,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-08,30.0,0.5
 1212638027964018,Ultrasound Communication Video,1214791864379829,5/11 - 5/15,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-13,15.0,0.25
 1212638027964018,Ultrasound Communication Video,1215436682184125,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-01,30.0,0.5
+1212638027964018,Ultrasound Communication Video,1215436682184125,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-05,45.0,0.75
 1212638027964018,Ultrasound Communication Video,1212660352666713,Create Course Map Document,Design,Design,,Design,Brianna Stines,2026-04-30,30.0,0.5
 1212638027964018,Ultrasound Communication Video,1212638028068004,Develop Learning Objectives,Design,Design,,Design,Brianna Stines,2026-04-30,120.0,2.0
 1212638027964018,Ultrasound Communication Video,1212638028068011,Develop Course Structure / Flow,Design,Design,,Design,Brianna Stines,2026-04-30,120.0,2.0
@@ -1555,23 +1557,24 @@ project_gid,project_name,task_gid,task_name,section,canonical_phase,assignee,res
 1212638028070139,CIF Video,1212660355727528,Project Management Hours,Analysis,Analysis,Michael Lerma,Project Manager,Michael Lerma,2026-04-29,120.0,2.0
 1212638028070139,CIF Video,1212660356531660,Project Management Hours,Pre-Production,Pre-Production,Derrick Patrick,Project Manager,Michael Lerma,2026-04-29,30.0,0.5
 1212638028070139,CIF Video,1214100051951021,filming,Production,Production,Derrick Patrick,,Kevin DeCloedt,2026-04-16,390.0,6.5
-1213292120696339,NEON - POS 30022 (Poly Sci),1213300127957998,Create Course Map Document,Design,Design,Brianna Stines,Design,Brianna Stines,2026-03-06,60.0,1.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1213300128164775,Develop Learning Objectives,Design,Design,Brianna Stines,Design,Brianna Stines,2026-03-06,60.0,1.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1213300128164775,Develop Learning Objectives,Design,Design,Brianna Stines,Design,Brianna Stines,2026-05-18,120.0,2.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1213300128164785,Develop Course Structure / Flow,Design,Design,Brianna Stines,Design,Brianna Stines,2026-03-06,60.0,1.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1213300128164785,Develop Course Structure / Flow,Design,Design,Brianna Stines,Design,Brianna Stines,2026-05-18,120.0,2.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1213300117742223,Finalize Modules on Course Map,Design,Design,Brianna Stines,Design,Brianna Stines,2026-05-18,120.0,2.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1213300117742223,Finalize Modules on Course Map,Design,Design,Brianna Stines,Design,Brianna Stines,2026-05-20,60.0,1.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379840,4/20 - 4/24,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-04-22,30.0,0.5
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379842,4/27 - 5/1,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-04-29,30.0,0.5
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379844,5/4 - 5/8,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-05,30.0,0.5
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379844,5/4 - 5/8,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-06,60.0,1.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379844,5/4 - 5/8,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-08,45.0,0.75
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379846,5/11 - 5/15,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-13,30.0,0.5
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379858,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-02,60.0,1.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379858,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-03,60.0,1.0
-1213292120696339,NEON - POS 30022 (Poly Sci),1214791864379858,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-03,15.0,0.25
-1213292120696339,NEON - POS 30022 (Poly Sci),1213300128327622,Scripting,Pre-Production,Pre-Production,,Media,Brianna Stines,2026-05-18,120.0,2.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1213300127957998,Create Course Map Document,Design,Design,Brianna Stines,Design,Brianna Stines,2026-03-06,60.0,1.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1213300128164775,Develop Learning Objectives,Design,Design,Brianna Stines,Design,Brianna Stines,2026-03-06,60.0,1.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1213300128164775,Develop Learning Objectives,Design,Design,Brianna Stines,Design,Brianna Stines,2026-05-18,120.0,2.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1213300128164785,Develop Course Structure / Flow,Design,Design,Brianna Stines,Design,Brianna Stines,2026-03-06,60.0,1.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1213300128164785,Develop Course Structure / Flow,Design,Design,Brianna Stines,Design,Brianna Stines,2026-05-18,120.0,2.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1213300117742223,Finalize Modules on Course Map,Design,Design,Brianna Stines,Design,Brianna Stines,2026-05-18,120.0,2.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1213300117742223,Finalize Modules on Course Map,Design,Design,Brianna Stines,Design,Brianna Stines,2026-05-20,60.0,1.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379840,4/20 - 4/24,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-04-22,30.0,0.5
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379842,4/27 - 5/1,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-04-29,30.0,0.5
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379844,5/4 - 5/8,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-05,30.0,0.5
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379844,5/4 - 5/8,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-06,60.0,1.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379844,5/4 - 5/8,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-08,45.0,0.75
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379846,5/11 - 5/15,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-05-13,30.0,0.5
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379858,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-02,60.0,1.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379858,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-03,60.0,1.0
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379858,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-03,15.0,0.25
+1213292120696339,NEON - POLS 30022 (Poly Sci),1214791864379858,6/1 - 6/5,Media Timetracking,Media Timetracking,,,Matthew Simmons,2026-06-05,30.0,0.5
+1213292120696339,NEON - POLS 30022 (Poly Sci),1213300128327622,Scripting,Pre-Production,Pre-Production,,Media,Brianna Stines,2026-05-18,120.0,2.0
 1213478777903328,Media Studio Sessions,1213824904918683,Filming time tracker,Untitled section,Untitled section,,,Kevin DeCloedt,2026-01-28,60.0,1.0
 1213478777903328,Media Studio Sessions,1213824904918683,Filming time tracker,Untitled section,Untitled section,,,Kevin DeCloedt,2026-02-25,75.0,1.25
 1213478777903328,Media Studio Sessions,1213824904918683,Filming time tracker,Untitled section,Untitled section,,,Kevin DeCloedt,2026-03-04,60.0,1.0
