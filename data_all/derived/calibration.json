@@ -1,8 +1,8 @@
 {
   "_provenance": {
-    "source": "data_all/time_entries.csv (2,345 entries, 2065.5h, 2024-08-19..2026-06-05, ODL staff time)",
+    "source": "data_all/time_entries.csv (2,347 entries, 2069.0h, 2024-08-19..2026-06-08, ODL staff time)",
     "calibration_set": "25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
-    "phase_mapping": "ordered keyword rules on section, task-name fallback for uninformative sections; basis counts: {'section': 2207, 'task_name': 103, 'none': 35}",
+    "phase_mapping": "ordered keyword rules on section, task-name fallback for uninformative sections; basis counts: {'section': 2207, 'task_name': 103, 'none': 37}",
     "no_guessing": "blocks state 'not_calibratable' where data is insufficient"
   },
   "archetype_effort_hours": {
@@ -32,7 +32,7 @@
         "ASCEND MCOB": 49.2,
         "Sprint 2025 - Digital Accessibility - Whitney James": 49.2,
         "Business for Humans | Sheedy Family Program": 38.8,
-        "FCTA - Physics I": 35.2,
+        "FCTA - Physics I": 38.7,
         "Sprint 2025 - Bringing Korean to Life - Yeonhee Yoon": 19.5,
         "NEON - POLS 30022 (Poly Sci)": 18.5,
         "C2D: Cybertraining for Chemical Data scientists": 16.5,
@@ -135,8 +135,8 @@
       {
         "project": "ASCEND MCOB",
         "pm_hours": 12.8,
-        "span_weeks": 21.5,
-        "pm_per_week": 0.59
+        "span_weeks": 26.0,
+        "pm_per_week": 0.49
       },
       {
         "project": "Sprint 2025: Lab Prep: Visualizing Success",
@@ -326,14 +326,14 @@
     }
   },
   "full_course_phase_mix": {
-    "basis": "pooled non-PM hours of 14 full-coverage full_course projects (852.0h)",
+    "basis": "pooled non-PM hours of 14 full-coverage full_course projects (855.5h)",
     "share_pct": {
-      "Production": 31.9,
-      "Post-Production": 21.7,
-      "Development/Build": 18.3,
-      "Pre-Production": 18.1,
+      "Production": 31.8,
+      "Post-Production": 21.6,
+      "Development/Build": 18.2,
+      "Pre-Production": 18.0,
       "Design": 8.8,
-      "Other / unsorted": 0.7,
+      "Other / unsorted": 1.1,
       "Discovery": 0.5
     }
   },
@@ -536,10 +536,10 @@
         "ape_pct": 69.8
       },
       {
-        "actual": 35.2,
+        "actual": 38.7,
         "pred_p50": 46.7,
         "in_iqr": true,
-        "ape_pct": 32.7
+        "ape_pct": 20.7
       },
       {
         "actual": 38.8,

@@ -85,10 +85,10 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1212343204566399,ASCEND MCOB,Design,10,2,3,2026-03-23T17:53:28.808000+00:00,2026-03-23T17:53:40.434000+00:00,0,0.0,0.0,0,0,0,0.1
 1212343204566399,ASCEND MCOB,Design Development,5,0,1,,,,0.0,0.0,0,0,0,0.2
 1212343204566399,ASCEND MCOB,PM Time Tracking: Lawrence,15,14,2,2025-12-08T19:46:50.212000+00:00,2025-12-26T17:48:05.051000+00:00,18,765.0,12.75,0,0,0,0.07
-1212343204566399,ASCEND MCOB,Post-Production,5,0,1,,,,1470.0,24.5,30,0,0,0.2
+1212343204566399,ASCEND MCOB,Post-Production,5,1,1,2026-06-08T13:36:46.451000+00:00,2026-06-08T13:36:46.451000+00:00,0,1470.0,24.5,30,0,0,0.2
 1212343204566399,ASCEND MCOB,Post-Project Evaluation,4,0,1,,,,0.0,0.0,0,0,0,0.25
 1212343204566399,ASCEND MCOB,Pre-Production,5,3,2,2026-04-16T14:47:13.695000+00:00,2026-05-08T14:43:31.563000+00:00,22,1425.0,23.75,0,0,0,0.2
-1212343204566399,ASCEND MCOB,Production,2,0,2,,,,60.0,1.0,10,0,0,0.5
+1212343204566399,ASCEND MCOB,Production,2,1,2,2026-06-08T13:36:41.517000+00:00,2026-06-08T13:36:41.517000+00:00,0,60.0,1.0,10,0,0,0.5
 1208659811898209,Ascent PDF Graphic,Untitled section,4,4,1,2024-11-04T13:58:03.794000+00:00,2024-11-06T21:01:02.955000+00:00,2,0.0,0.0,0,0,0,0.25
 1207278964351685,Asset Spreadsheet Example,Untitled section,1,0,0,,,,0.0,0.0,8,0,0,1.0
 1212627165986472,Borgo Laudato Si' videos,Analysis,8,0,0,,,,0.0,0.0,0,0,0,0.12
@@ -102,8 +102,8 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1211653962736510,Business for Humans | Sheedy Family Program,Design Development,5,0,2,,,,0.0,0.0,0,0,0,0.2
 1211653962736510,Business for Humans | Sheedy Family Program,Post-Production,1,0,1,,,,0.0,0.0,27,0,0,1.0
 1211653962736510,Business for Humans | Sheedy Family Program,Post-Project Evaluation,4,0,1,,,,0.0,0.0,0,0,0,0.25
-1211653962736510,Business for Humans | Sheedy Family Program,Pre-Production,8,1,1,2026-03-20T15:27:05.274000+00:00,2026-03-20T15:27:05.274000+00:00,0,1950.0,32.5,0,0,0,0.12
-1211653962736510,Business for Humans | Sheedy Family Program,Production,2,0,1,,,,315.0,5.25,6,0,0,0.5
+1211653962736510,Business for Humans | Sheedy Family Program,Pre-Production,8,4,1,2026-03-20T15:27:05.274000+00:00,2026-06-08T13:37:41.785000+00:00,80,1950.0,32.5,0,0,0,0.12
+1211653962736510,Business for Humans | Sheedy Family Program,Production,2,1,1,2026-06-08T13:37:51.972000+00:00,2026-06-08T13:37:51.972000+00:00,0,315.0,5.25,6,0,0,0.5
 1209417474929053,Business on the Frontlines XR,Content Expansion,5,5,0,2025-04-28T13:51:18.525000+00:00,2025-05-05T13:34:31.590000+00:00,7,0.0,0.0,0,0,0,0.2
 1209417474929053,Business on the Frontlines XR,Core Framework,2,2,1,2025-03-10T13:25:02.966000+00:00,2025-03-31T13:28:20.070000+00:00,21,0.0,0.0,7,0,0,0.5
 1209417474929053,Business on the Frontlines XR,Core Gameplay Loop,3,2,0,2025-04-07T13:29:41.159000+00:00,2025-04-14T13:20:16.347000+00:00,7,0.0,0.0,0,0,0,0.33
@@ -205,7 +205,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1207760971753716,FCTA - Physics I,Post-Production,5,2,3,2025-12-11T15:35:57.079000+00:00,2026-01-07T20:46:07.377000+00:00,27,300.0,5.0,11,0,0,0.2
 1207760971753716,FCTA - Physics I,Pre-Production,7,4,2,2025-08-28T17:16:50.375000+00:00,2025-11-07T17:27:02.345000+00:00,71,640.0,10.67,1,0,0,0.14
 1207760971753716,FCTA - Physics I,Production,3,2,1,2025-08-24T21:31:59.570000+00:00,2026-01-07T20:45:58.977000+00:00,136,600.0,10.0,11,0,0,0.33
-1207760971753716,FCTA - Physics I,Testimonials,1,0,0,,,,360.0,6.0,0,0,0,1.0
+1207760971753716,FCTA - Physics I,Testimonials,1,0,0,,,,570.0,9.5,0,0,0,1.0
 1213077276586762,FCTA - Physics II,Design,3,2,0,2026-02-02T03:52:44.093000+00:00,2026-02-02T03:52:44.653000+00:00,0,0.0,0.0,1,0,0,0.33
 1213077276586762,FCTA - Physics II,Post Project Evaluation,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1213077276586762,FCTA - Physics II,Post-Production,5,2,0,2026-02-02T03:52:49.415000+00:00,2026-02-02T03:52:49.939000+00:00,0,0.0,0.0,11,0,0,0.2
@@ -377,6 +377,13 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1212660352662527,Romance Languages video/podcast initiative,Post-Project Evaluation,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1212660352662527,Romance Languages video/podcast initiative,Pre-Production,6,0,0,,,,0.0,0.0,0,0,0,0.17
 1212660352662527,Romance Languages video/podcast initiative,Production,2,0,0,,,,0.0,0.0,0,0,0,0.5
+1214783923511446,Sprint - Unlocking Inaccessible Korean Heritage,Analysis,3,0,1,,,,0.0,0.0,0,0,0,0.33
+1214783923511446,Sprint - Unlocking Inaccessible Korean Heritage,Design,10,0,2,,,,0.0,0.0,0,0,0,0.1
+1214783923511446,Sprint - Unlocking Inaccessible Korean Heritage,Design Development,5,0,2,,,,0.0,0.0,0,0,0,0.2
+1214783923511446,Sprint - Unlocking Inaccessible Korean Heritage,Post-Production,1,0,0,,,,0.0,0.0,0,0,0,1.0
+1214783923511446,Sprint - Unlocking Inaccessible Korean Heritage,Post-Project Evaluation,4,0,1,,,,0.0,0.0,0,0,0,0.25
+1214783923511446,Sprint - Unlocking Inaccessible Korean Heritage,Pre-Production,6,0,1,,,,0.0,0.0,0,0,0,0.17
+1214783923511446,Sprint - Unlocking Inaccessible Korean Heritage,Production,2,0,1,,,,0.0,0.0,0,0,0,0.5
 1210225716846542,Sprint 2025 - Bringing Korean to Life - Yeonhee Yoon,Analysis,3,3,1,2025-05-19T13:21:49.623000+00:00,2025-06-17T19:56:03.457000+00:00,29,0.0,0.0,0,0,0,0.33
 1210225716846542,Sprint 2025 - Bringing Korean to Life - Yeonhee Yoon,Design,8,7,2,2025-07-11T20:13:52.870000+00:00,2025-08-11T13:08:25.893000+00:00,31,780.0,13.0,0,0,0,0.12
 1210225716846542,Sprint 2025 - Bringing Korean to Life - Yeonhee Yoon,Design Development,5,0,2,,,,360.0,6.0,0,0,0,0.2
