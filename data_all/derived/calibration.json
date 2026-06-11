@@ -1,8 +1,8 @@
 {
   "_provenance": {
-    "source": "data_all/time_entries.csv (2,352 entries, 2077.8h, 2024-08-19..2026-06-10, ODL staff time)",
+    "source": "data_all/time_entries.csv (2,356 entries, 2117.8h, 2024-08-19..2026-06-10, ODL staff time)",
     "calibration_set": "25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
-    "phase_mapping": "ordered keyword rules on section, task-name fallback for uninformative sections; basis counts: {'section': 2212, 'task_name': 103, 'none': 37}",
+    "phase_mapping": "ordered keyword rules on section, task-name fallback for uninformative sections; basis counts: {'section': 2216, 'task_name': 103, 'none': 37}",
     "no_guessing": "blocks state 'not_calibratable' where data is insufficient"
   },
   "archetype_effort_hours": {
@@ -26,12 +26,12 @@
         "AI for the Notre Dame Community": 286.5,
         "Responsible and Ethical AI": 98.9,
         "ASCEND Engineering": 27.5,
+        "ASCEND MCOB": 80.2,
         "Virtual Borders": 81.8,
         "The Qur’an and the Bible (Gabriel Reynolds)": 46.7,
         "MSAN II": 71.1,
-        "ASCEND MCOB": 49.2,
         "Sprint 2025 - Digital Accessibility - Whitney James": 49.2,
-        "Business for Humans | Sheedy Family Program": 38.8,
+        "Business for Humans | Sheedy Family Program": 47.8,
         "FCTA - Physics I": 38.7,
         "NEON - POLS 30022 (Poly Sci)": 23.2,
         "Sprint 2025 - Bringing Korean to Life - Yeonhee Yoon": 19.5,
@@ -42,9 +42,9 @@
         "n": 14,
         "min": 15.7,
         "p25": 24.3,
-        "p50": 42.8,
-        "p75": 65.6,
-        "p80": 75.4,
+        "p50": 47.2,
+        "p75": 77.9,
+        "p80": 80.8,
         "max": 286.5
       }
     },
@@ -135,8 +135,8 @@
       {
         "project": "ASCEND MCOB",
         "pm_hours": 12.8,
-        "span_weeks": 26.0,
-        "pm_per_week": 0.49
+        "span_weeks": 26.4,
+        "pm_per_week": 0.48
       },
       {
         "project": "Sprint 2025: Lab Prep: Visualizing Success",
@@ -189,7 +189,7 @@
       },
       {
         "project": "ASCEND MCOB",
-        "pm_share_pct": 20.6
+        "pm_share_pct": 13.7
       },
       {
         "project": "The Qur’an and the Bible (Gabriel Reynolds)",
@@ -210,8 +210,8 @@
     ],
     "pm_share_pct": {
       "n": 7,
-      "min": 14.7,
-      "p25": 18.9,
+      "min": 13.7,
+      "p25": 16.0,
       "p50": 36.1,
       "p75": 51.0,
       "p80": 59.1,
@@ -326,15 +326,15 @@
     }
   },
   "full_course_phase_mix": {
-    "basis": "pooled non-PM hours of 14 full-coverage full_course projects (863.3h)",
+    "basis": "pooled non-PM hours of 14 full-coverage full_course projects (903.3h)",
     "share_pct": {
-      "Production": 32.4,
-      "Post-Production": 21.4,
-      "Development/Build": 18.0,
-      "Pre-Production": 17.8,
-      "Design": 8.7,
+      "Production": 31.0,
+      "Post-Production": 24.9,
+      "Development/Build": 17.2,
+      "Pre-Production": 17.0,
+      "Design": 8.3,
       "Other / unsorted": 1.1,
-      "Discovery": 0.5
+      "Discovery": 0.4
     }
   },
   "calendar": {
@@ -824,15 +824,15 @@
           "project": "ASCEND MCOB",
           "project_gid": "1212343204566399",
           "tracker_reported_hours": 8.0,
-          "asana_logged_hours": 62.0,
-          "ratio_logged_over_reported": 7.75
+          "asana_logged_hours": 93.0,
+          "ratio_logged_over_reported": 11.62
         },
         {
           "project": "Business for Humans | Sheedy Family Program",
           "project_gid": "1211653962736510",
           "tracker_reported_hours": 12.0,
-          "asana_logged_hours": 38.8,
-          "ratio_logged_over_reported": 3.23
+          "asana_logged_hours": 47.8,
+          "ratio_logged_over_reported": 3.98
         },
         {
           "project": "C2D: Cybertraining for Chemical Data scientists",
@@ -973,90 +973,90 @@
     "rows": [
       {
         "actual": 15.7,
-        "pred_p50": 46.7,
+        "pred_p50": 47.8,
         "in_iqr": false,
-        "ape_pct": 197.5
+        "ape_pct": 204.5
       },
       {
         "actual": 16.5,
-        "pred_p50": 46.7,
+        "pred_p50": 47.8,
         "in_iqr": false,
-        "ape_pct": 183.0
+        "ape_pct": 189.7
       },
       {
         "actual": 19.5,
-        "pred_p50": 46.7,
+        "pred_p50": 47.8,
         "in_iqr": false,
-        "ape_pct": 139.5
+        "ape_pct": 145.1
       },
       {
         "actual": 23.2,
-        "pred_p50": 46.7,
+        "pred_p50": 47.8,
         "in_iqr": false,
-        "ape_pct": 101.3
+        "ape_pct": 106.0
       },
       {
         "actual": 27.5,
-        "pred_p50": 46.7,
+        "pred_p50": 47.8,
         "in_iqr": true,
-        "ape_pct": 69.8
+        "ape_pct": 73.8
       },
       {
         "actual": 38.7,
-        "pred_p50": 46.7,
+        "pred_p50": 47.8,
         "in_iqr": true,
-        "ape_pct": 20.7
-      },
-      {
-        "actual": 38.8,
-        "pred_p50": 46.7,
-        "in_iqr": true,
-        "ape_pct": 20.4
+        "ape_pct": 23.5
       },
       {
         "actual": 46.7,
-        "pred_p50": 38.8,
+        "pred_p50": 47.8,
         "in_iqr": true,
-        "ape_pct": 16.9
+        "ape_pct": 2.4
+      },
+      {
+        "actual": 47.8,
+        "pred_p50": 46.7,
+        "in_iqr": true,
+        "ape_pct": 2.3
       },
       {
         "actual": 49.2,
-        "pred_p50": 38.8,
+        "pred_p50": 46.7,
         "in_iqr": true,
-        "ape_pct": 21.1
-      },
-      {
-        "actual": 49.2,
-        "pred_p50": 38.8,
-        "in_iqr": true,
-        "ape_pct": 21.1
+        "ape_pct": 5.1
       },
       {
         "actual": 71.1,
-        "pred_p50": 38.8,
+        "pred_p50": 46.7,
+        "in_iqr": true,
+        "ape_pct": 34.3
+      },
+      {
+        "actual": 80.2,
+        "pred_p50": 46.7,
         "in_iqr": false,
-        "ape_pct": 45.4
+        "ape_pct": 41.8
       },
       {
         "actual": 81.8,
-        "pred_p50": 38.8,
+        "pred_p50": 46.7,
         "in_iqr": false,
-        "ape_pct": 52.6
+        "ape_pct": 42.9
       },
       {
         "actual": 98.9,
-        "pred_p50": 38.8,
+        "pred_p50": 46.7,
         "in_iqr": false,
-        "ape_pct": 60.8
+        "ape_pct": 52.8
       },
       {
         "actual": 286.5,
-        "pred_p50": 38.8,
+        "pred_p50": 46.7,
         "in_iqr": false,
-        "ape_pct": 86.5
+        "ape_pct": 83.7
       }
     ],
-    "median_ape_pct": 56.7,
+    "median_ape_pct": 47.8,
     "iqr_coverage_pct": 42.9,
     "reading": "wide APE is expected -- it is the honest spread of a point guess; this is WHY the estimator must quote P25-P80 ranges, not points."
   }

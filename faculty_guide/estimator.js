@@ -35,7 +35,7 @@
   // === BEGIN CALIBRATION (machine-generated — do not edit by hand) ==========
   var CALIBRATION =
   {
-    "provenance": "data_all/time_entries.csv (2,352 entries, 2077.8h, 2024-08-19..2026-06-10, ODL staff time) | 25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
+    "provenance": "data_all/time_entries.csv (2,356 entries, 2117.8h, 2024-08-19..2026-06-10, ODL staff time) | 25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
     "generated_from": "data_all/derived/calibration.json -- run inject_calibration.py to refresh",
     "archetypeEffort": {
       "course_redesign": {
@@ -51,9 +51,9 @@
         "n": 14,
         "min": 15.7,
         "p25": 24.3,
-        "p50": 42.8,
-        "p75": 65.6,
-        "p80": 75.4,
+        "p50": 47.2,
+        "p75": 77.9,
+        "p80": 80.8,
         "max": 286.5
       },
       "single_video": {
@@ -87,8 +87,8 @@
     },
     "pmSharePctWhereBothLogged": {
       "n": 7,
-      "min": 14.7,
-      "p25": 18.9,
+      "min": 13.7,
+      "p25": 16.0,
       "p50": 36.1,
       "p75": 51.0,
       "p80": 59.1,
@@ -114,15 +114,15 @@
     },
     "mediaSplitBasis": "pooled hours on per-video sections with full-coverage logging: 1 project(s) (Program for Inclusive Education (PIE) Video #2), 15.5h total",
     "coursePhaseMixPct": {
-      "Production": 32.4,
-      "Post-Production": 21.4,
-      "Development/Build": 18.0,
-      "Pre-Production": 17.8,
-      "Design": 8.7,
+      "Production": 31.0,
+      "Post-Production": 24.9,
+      "Development/Build": 17.2,
+      "Pre-Production": 17.0,
+      "Design": 8.3,
       "Other / unsorted": 1.1,
-      "Discovery": 0.5
+      "Discovery": 0.4
     },
-    "coursePhaseMixBasis": "pooled non-PM hours of 14 full-coverage full_course projects (863.3h)",
+    "coursePhaseMixBasis": "pooled non-PM hours of 14 full-coverage full_course projects (903.3h)",
     "calendarWeeks": {
       "consult_or_studio": {
         "n": 1,
@@ -523,15 +523,15 @@
             "project": "ASCEND MCOB",
             "project_gid": "1212343204566399",
             "tracker_reported_hours": 8.0,
-            "asana_logged_hours": 62.0,
-            "ratio_logged_over_reported": 7.75
+            "asana_logged_hours": 93.0,
+            "ratio_logged_over_reported": 11.62
           },
           {
             "project": "Business for Humans | Sheedy Family Program",
             "project_gid": "1211653962736510",
             "tracker_reported_hours": 12.0,
-            "asana_logged_hours": 38.8,
-            "ratio_logged_over_reported": 3.23
+            "asana_logged_hours": 47.8,
+            "ratio_logged_over_reported": 3.98
           },
           {
             "project": "C2D: Cybertraining for Chemical Data scientists",
@@ -668,7 +668,7 @@
       "per_module_rate": "module counts exist for only 5 of 19 course projects and mean different things (AI for ND 57h/module vs R&E AI 7.6h/week-unit vs Virtual Borders 25h/module) -- logging is not at module granularity yet. Effort stays archetype-level until the new per-task tracking accumulates."
     },
     "backtest": {
-      "median_ape_pct": 56.7,
+      "median_ape_pct": 47.8,
       "iqr_coverage_pct": 42.9,
       "reading": "wide APE is expected -- it is the honest spread of a point guess; this is WHY the estimator must quote P25-P80 ranges, not points."
     }
