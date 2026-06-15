@@ -58,7 +58,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1209298164735103,AI for the Notre Dame Community,Design,10,8,2,2025-05-18T18:35:01.932000+00:00,2025-09-29T14:17:30.144000+00:00,134,600.0,10.0,0,0,0,0.1
 1209298164735103,AI for the Notre Dame Community,Design Development,11,10,2,2025-09-16T14:28:28.472000+00:00,2025-09-29T14:17:47.427000+00:00,13,5370.0,89.5,0,0,0,0.09
 1209298164735103,AI for the Notre Dame Community,PM Time Tracking,41,40,1,2025-02-20T13:30:08.989000+00:00,2025-11-28T14:52:41.816000+00:00,281,9731.0,162.18,0,0,0,0.02
-1209298164735103,AI for the Notre Dame Community,Post-Production,2,0,0,,,,7350.0,122.5,0,0,0,0.5
+1209298164735103,AI for the Notre Dame Community,Post-Production,3,0,0,,,,7350.0,122.5,0,0,0,0.33
 1209298164735103,AI for the Notre Dame Community,Post-Project Evaluation,4,4,1,2025-09-21T18:09:58.733000+00:00,2025-10-07T12:48:29.232000+00:00,16,0.0,0.0,0,0,0,0.25
 1209298164735103,AI for the Notre Dame Community,Pre-Production,6,4,2,2025-07-14T17:20:13.647000+00:00,2025-09-29T14:17:25.865000+00:00,77,1440.0,24.0,0,0,0,0.17
 1209298164735103,AI for the Notre Dame Community,Production,10,10,1,2025-07-07T23:00:13.079000+00:00,2025-09-29T14:17:04.449000+00:00,84,2430.0,40.5,0,0,0,0.1
@@ -223,7 +223,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1211900373500710,I CAN HELP Learning Modules,Post-Project Evaluation,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1211900373500710,I CAN HELP Learning Modules,Pre-Production,1,0,0,,,,0.0,0.0,0,0,0,1.0
 1211900373500710,I CAN HELP Learning Modules,Untitled section,2,2,2,2025-10-16T17:28:24.775000+00:00,2025-10-16T17:41:20.406000+00:00,0,0.0,0.0,0,0,0,0.5
-1211592424221769,Impact Tracker,Untitled section,143,0,0,,,,0.0,0.0,0,0,0,0.01
+1211592424221769,Impact Tracker,Untitled section,144,0,0,,,,0.0,0.0,0,0,0,0.01
 1207817115500023,Innovation and Design Thinking XR,Post Production,9,9,0,2024-08-22T18:05:06.425000+00:00,2024-10-07T17:38:34+00:00,46,0.0,0.0,0,0,0,0.11
 1207817115500023,Innovation and Design Thinking XR,Regroup,2,2,1,2024-08-14T23:21:26.008000+00:00,2024-08-15T20:09:54.212000+00:00,1,0.0,0.0,0,0,0,0.5
 1207817115500023,Innovation and Design Thinking XR,Untitled section,1,1,1,2024-10-04T13:35:16.429000+00:00,2024-10-04T13:35:16.429000+00:00,0,0.0,0.0,0,0,0,1.0
@@ -505,7 +505,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1208335647365619,Virtual Borders,Media Timetracking,5,0,0,,,,315.0,5.25,0,0,0,0.2
 1208335647365619,Virtual Borders,Post-Production / Design Development,9,0,3,,,,0.0,0.0,0,0,0,0.11
 1208335647365619,Virtual Borders,Pre-Production,4,3,1,2025-02-10T18:00:52.129000+00:00,2025-02-20T21:09:55.485000+00:00,10,870.0,14.5,9,0,0,0.25
-1208335647365619,Virtual Borders,Production,9,1,2,2025-02-27T17:34:59.484000+00:00,2025-02-27T17:34:59.484000+00:00,0,4020.0,67.0,4,0,0,0.11
+1208335647365619,Virtual Borders,Production,9,1,2,2025-02-27T17:34:59.484000+00:00,2025-02-27T17:34:59.484000+00:00,0,4125.0,68.75,4,0,0,0.11
 1206425015213615,XR Overview (Spring 24),Classroom Experiences,7,1,0,2024-01-24T01:43:21.592000+00:00,2024-01-24T01:43:21.592000+00:00,0,0.0,0.0,0,0,0,0.14
 1206425015213615,XR Overview (Spring 24),Development Projects,5,1,0,2024-01-24T01:51:30.659000+00:00,2024-01-24T01:51:30.659000+00:00,0,0.0,0.0,0,0,0,0.2
 1206425015213615,XR Overview (Spring 24),In Queue,2,0,0,,,,0.0,0.0,0,0,0,0.5

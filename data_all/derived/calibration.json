@@ -1,8 +1,8 @@
 {
   "_provenance": {
-    "source": "data_all/time_entries.csv (2,360 entries, 2123.5h, 2024-08-19..2026-06-12, ODL staff time)",
+    "source": "data_all/time_entries.csv (2,362 entries, 2125.3h, 2024-08-19..2026-06-15, ODL staff time)",
     "calibration_set": "25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
-    "phase_mapping": "ordered keyword rules on section, task-name fallback for uninformative sections; basis counts: {'section': 2220, 'task_name': 103, 'none': 37}",
+    "phase_mapping": "ordered keyword rules on section, task-name fallback for uninformative sections; basis counts: {'section': 2222, 'task_name': 103, 'none': 37}",
     "no_guessing": "blocks state 'not_calibratable' where data is insufficient"
   },
   "archetype_effort_hours": {
@@ -27,7 +27,7 @@
         "Responsible and Ethical AI": 98.9,
         "ASCEND Engineering": 27.5,
         "ASCEND MCOB": 80.2,
-        "Virtual Borders": 86.8,
+        "Virtual Borders": 88.5,
         "The Qur’an and the Bible (Gabriel Reynolds)": 46.7,
         "MSAN II": 71.1,
         "Sprint 2025 - Digital Accessibility - Whitney James": 49.2,
@@ -44,7 +44,7 @@
         "p25": 24.3,
         "p50": 47.2,
         "p75": 77.9,
-        "p80": 82.8,
+        "p80": 83.5,
         "max": 286.5
       }
     },
@@ -326,10 +326,10 @@
     }
   },
   "full_course_phase_mix": {
-    "basis": "pooled non-PM hours of 14 full-coverage full_course projects (908.3h)",
+    "basis": "pooled non-PM hours of 14 full-coverage full_course projects (910.0h)",
     "share_pct": {
-      "Production": 31.4,
-      "Post-Production": 24.8,
+      "Production": 31.5,
+      "Post-Production": 24.7,
       "Development/Build": 17.1,
       "Pre-Production": 16.9,
       "Design": 8.3,
@@ -495,20 +495,25 @@
   },
   "impact_tracker": {
     "field": "cf::Impact Tracker Status",
-    "basis": "data_all/projects.csv Asana project custom field across 129 pulled projects",
-    "total_projects": 129,
-    "tracked_projects": 31,
-    "blank_projects": 98,
-    "coverage_pct": 24.0,
+    "basis": "data_all/projects.csv Asana project custom field across 131 pulled projects",
+    "total_projects": 131,
+    "tracked_projects": 32,
+    "blank_projects": 99,
+    "coverage_pct": 24.4,
     "status_counts": {
-      "Up to date": 23,
-      "Outdated": 8
+      "Up to date": 22,
+      "Outdated": 10
     },
-    "up_to_date_pct_of_tracked": 74.2,
+    "up_to_date_pct_of_tracked": 68.8,
     "outdated_projects": [
       {
         "project_gid": "1207942229848224",
         "project": "National Education Opportunities Network (NEON)",
+        "status": "Outdated"
+      },
+      {
+        "project_gid": "1209298164735103",
+        "project": "AI for the Notre Dame Community",
         "status": "Outdated"
       },
       {
@@ -519,6 +524,11 @@
       {
         "project_gid": "1209679644127773",
         "project": "Radio Systems Course",
+        "status": "Outdated"
+      },
+      {
+        "project_gid": "1211900372320318",
+        "project": "C2D: Cybertraining for Chemical Data scientists",
         "status": "Outdated"
       },
       {
@@ -552,7 +562,7 @@
     "available": true,
     "source": "data_all/task_custom_fields.csv",
     "metric_scope": "Impact Tracker board tasks only",
-    "value_count": 5434,
+    "value_count": 5472,
     "field_count": 38,
     "all_fields": [
       "Academic Department",
@@ -594,7 +604,7 @@
       "Web Page Modules",
       "XR experiences"
     ],
-    "record_count": 143,
+    "record_count": 144,
     "detected_asset_fields": [
       "Canvas Courses",
       "Graphics",
@@ -636,7 +646,7 @@
         "max": 1.0
       },
       "Total Assets": {
-        "n": 143,
+        "n": 144,
         "min": 0.0,
         "p25": 0.0,
         "p50": 0.0,
@@ -685,7 +695,7 @@
     },
     "records_with_assets": 31,
     "records_with_satisfaction": 24,
-    "matched_records": 46,
+    "matched_records": 47,
     "outcomes": {
       "faculty_satisfaction_index": {
         "n": 24,
@@ -770,7 +780,7 @@
       }
     },
     "tracker_status_counts": {
-      "Complete": 72,
+      "Complete": 73,
       "In Progress": 29,
       "No Documentation": 15,
       "On Hold": 4
@@ -908,8 +918,8 @@
           "project": "Virtual Borders",
           "project_gid": "1208335647365619",
           "tracker_reported_hours": 120.0,
-          "asana_logged_hours": 86.8,
-          "ratio_logged_over_reported": 0.72
+          "asana_logged_hours": 88.5,
+          "ratio_logged_over_reported": 0.74
         }
       ],
       "basis": "Tracker 'Total Hours' field vs hours actually logged in Asana time entries for the same project (matched by GID or unique normalized name)."
@@ -1038,10 +1048,10 @@
         "ape_pct": 41.8
       },
       {
-        "actual": 86.8,
+        "actual": 88.5,
         "pred_p50": 46.7,
         "in_iqr": false,
-        "ape_pct": 46.2
+        "ape_pct": 47.2
       },
       {
         "actual": 98.9,
@@ -1056,7 +1066,7 @@
         "ape_pct": 83.7
       }
     ],
-    "median_ape_pct": 49.5,
+    "median_ape_pct": 50.0,
     "iqr_coverage_pct": 42.9,
     "reading": "wide APE is expected -- it is the honest spread of a point guess; this is WHY the estimator must quote P25-P80 ranges, not points."
   }
