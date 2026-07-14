@@ -2829,6 +2829,7 @@ Next steps"
 1207942229848234,Digital Learning Task Force,2024-08-20T15:47:07.761Z,on_track,Michael Lerma,Status update - Aug 20,"Summary
 
 Next steps"
+1207942229848234,Digital Learning Task Force,1970-01-01T00:00:00.000Z,on_track,Michael Lerma,,
 1207967599155608,Online Pedagogy Course  ,2025-04-21T14:23:39.066Z,complete,Kuangchen Hsu,Online Pedagogy Course   - Apr 21,"Summary
 
 Next steps"
@@ -5015,6 +5016,36 @@ Next steps"
 I have drafted project goals, outcomes, etc. based on our last conversation. Planning to clean up a bit on M 9/23 with intentions of sharing with Eva, Erin, and Steve the day before our meeting. We are meeting R 9/26.
 
 Next steps"
+1208335647365682,Test,1970-01-01T00:00:00.000Z,on_track,Michael Lerma,,
+1208337788268913,Preparation/Performance Analytics for FCTA Physics,2024-09-19T15:10:16.693Z,on_track,Michael Lerma,Status update - Sep 19,"Summary
+    We discussed the data set that ND Learning / Lucy Center had gathered from Spring 2023. Permission is pending for Spring 2024 data
+    We discussed the data set that IRIS collected from 2018-2022
+    We discussed about how we could potentially use both data sets but noted there is a need to potentially boost the fairness of data sets (pre-process strategies, post-process strategies etc)
+
+
+Next steps
+    Alex - Get Spring 24 data permission
+    Alex - Get IRB Approval
+    Michael - look at different venues 
+    Xiuxiu - double check that all sections were included in dataset
+    Xiuxiu, Alex, Kevin Abbott - Timeline of assignments, quizzes
+    Michael - set up biweekly meetings (Thursdays are the preference of Jenna)
+    Mary / Alex - Check for permissions to merge datasets because of data privacy and university policy"
+1208337788268930,Boosting Gen Chem & Intro to Engineering,2024-09-19T15:11:48.449Z,on_track,Michael Lerma,Status update - Sep 19,"Summary
+    We talked about the goals of the project and what the goals from Andrew and Susan were
+    We talked about the definition of non-thriving and how it will be different in different courses
+    We talked about the new analytics tool and got an overview from Kevin on what functionalities are available
+
+
+Next steps
+    Michael - Add Andrew Craker to meetings going forward
+    Alex - Permissions for the Moreau learner action form
+    Adrea to do a qualtrics tune up for the group?
+    Andrew/Susan to let us know if they need a session
+    Michael to set up meeting in three weeks
+    Alex - Give Ellie Brenner heads up on the two boost plans
+        Week from tomorrow (9/26) - Andrew will send notification boost 
+        Early next week (Tues, 9/24) - Susan will send notification boost"
 1208344673489500,MSAN Asset Spreadsheet,2026-05-13T20:21:32.736Z,complete,Michael Lerma,MSAN Asset Spreadsheet - May 13,"Summary
 
 
@@ -7215,6 +7246,363 @@ Political Science is trying to attract more majors and students taking courses i
 
 Next steps
 Kuangchen, KC, and Lawrence will meet with Angela on Thursday to get things going."
+1210172923319793,Guardian Angel Project,2025-05-06T15:07:54.642Z,on_track,Michael Lerma,Guardian Project - May 6,"Summary
+    Tableau report that was created for first year advising will go away with restructuring of advising. We would need a plan in place to move forward if the report isn't maintained
+    Discussed who needs to be in the cohort
+        Moreau
+        Calc I
+        Chem
+        Intro to EG
+    Started brainstorming the report structure
+
+
+Next steps
+    In Canvas test environment
+        Create a couple demo courses with extra boost assignment column test running a report across multiple course to build prototype guardian angel tableau report on server not in dataND"
+1210172924278327,AI Academy (Spring 2025),2025-05-06T16:21:41.077Z,on_track,Michael Lerma,AI Academy (Spring 2025) - May 6,"Summary
+Just finished the 5th and final session for the inaugural AI Academy on May 2!
+
+Next steps"
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-08-14T18:42:55.169Z,complete,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Aug 14,"Summary
+All deliverables for the project have been completed. The master site has been copied into the live Fall 2025 course shell, and the course is ready for student access.
+
+Next steps
+    Hold a project retrospective with Yi and Matthew."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-08-11T04:37:21.131Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Aug 11,"Summary
+Final video delivery & transcript review
+All final videos are completed, captioned, and uploaded to both Panopto and Google Drive. Janyl is finalizing a review of the video transcripts to ensure they align with the scripts in terms of accuracy and text.
+ 
+Canvas embedding
+This week, Yi will embed all finalized videos into Canvas. Since this is a sprint project, we will not conduct a formal QA phase; instead, we’ll ensure all content and transcripts are correct before handoff.
+ 
+Project wrap-up
+The handoff to Josie is planned for Thursday, marking the official close of the project.
+
+Next steps
+    Yi to embed final videos into Canvas.
+    Janyl to complete transcript review.
+    Conduct a handoff meeting on Thursday.
+    Plan a retrospective with Yi."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-08-01T19:14:50.023Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Aug 1,"Summary
+Final video edits completed
+Maddie completed and Matthew uploaded all finalized screencast videos with captions to both Panopto and Google Drive before her last day. Three videos (03-01, 09-01, and 14-02) are still being processed for captions and will be moved to the final folder by Monday.
+
+IVQ integration next
+With all videos complete, the next phase will focus on integrating IVQs into the course site. Josie has completed IVQs for 6 out of 22 videos so far. The remaining IVQs are expected to be submitted before next week to stay aligned with the QA timeline.
+ 
+Canvas site updates
+Janyl will continue embedding final video links from Panopto. Once IVQs are submitted, she will also handle the placement of the quiz interactions.
+
+Next steps
+    Josie to complete the remaining IVQs.
+    Janyl to embed videos and begin IVQ integration.
+    Archive video assets and begin QA prep.
+    Plan project retrospective with Yi and Matthew."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-07-25T20:04:56.879Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Jul 25,"Summary
+Rough cut review in progress
+Josie continued reviewing the first batch of video rough cuts this week. Although progress was slightly delayed due to illness, she’s actively leaving comments and plans to catch up further over the weekend. Maddie is incorporating feedback on a rolling basis and confirmed that there should be no issue adjusting edits accordingly.
+ 
+Clarifications completed
+Josie and Maddie held a brief sync to go over key points from Josie’s video comments, particularly regarding content visuals and messaging clarity. This ensured alignment moving forward in post-production.
+ 
+Course site development ongoing
+Yi has continued to update the Canvas site, including resource linking and editing lesson structures. Josie will resume working on IVQs and learning objectives as she finalizes her video reviews.
+
+Next steps
+    Josie to complete rough cut reviews and begin IVQ drafting
+    Maddie to finalize video edits based on Josie’s notes
+    Prepare for final asset review and QA phase in early August"
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-07-18T19:16:00.620Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Jul 18,"Summary
+Rough cut review in progress
+Josie has begun reviewing the first batch of screencast rough cuts and has been leaving comments for the media team. Maddie and Josie held a brief check-in this week to clarify a few open questions regarding visuals and the application of content, particularly for the first video.
+ 
+IVQs 
+Due to illness, Josie has not yet made progress on integrating IVQs into the script. But we expect she will be able to resume this work over the weekend and catch up on any pending updates (as agreed). No concerns flagged at this point, and the media team has indicated that integrating feedback into the remaining cuts should still be manageable.
+ 
+Course site updates
+Yi has implemented recent changes in the Canvas course site, including an updated structure and linked resources. Josie will continue to review the site and provide feedback as needed, alongside her video review.
+
+Next steps
+    Josie to continue reviewing rough cuts and provide comments.
+    Josie to resume work on IVQs over the weekend.
+    Prepare for the potential final feedback round by the end of next week."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-07-14T04:47:53.503Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Jul 14,"Summary
+Course site refinement in progress
+Yi is actively refining the Canvas site. A new Student TA page is being added, and instructional resources are being reorganized to align with in-class vs. post-class use. Incomplete codesheets and R worksheets will be posted for use during class, with complete versions made available afterward.
+
+Learning objectives and IVQs
+Josie will be adding chapter-level learning objectives and embedding IVQs directly into the scripts to support learner engagement across modules. Yi is also building a centralized Resources page and embedding WebAssign links chapter by chapter.
+
+Post-production progress
+Matthew shared the first batch of 14 screencast videos with Josie on Friday. Maddie is working to complete the remaining edits early this week. All videos will be uploaded to the same folder as they are finalized. Josie is encouraged to begin reviewing the current batch and provide feedback since last weekend.
+
+Next steps
+    Yi to complete page updates and resource integration.
+    Josie to add learning objectives and IVQs.
+    Continue reviewing rough-cut videos; provide feedback for final edits ahead of August 1."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-07-07T05:02:04.345Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Jul 7,"Summary
+Post-production in progress
+Production successfully wrapped the previous week. Maddie has begun editing the first batch of rough cuts, and the initial set of videos is expected to be shared with Josephine for review within the next week.
+
+Course site development ongoing
+Yi is continuing to build out the course site, including updates to the homepage, TA resources, and chapter-specific pages. The course introduction message and pre-class materials (e.g., Intro to R/R-Studio) are being categorized for student access.
+
+Content collaboration
+Josephine will begin drafting chapter intro content directly into the Canvas sandbox, working from her existing notes and syllabus to ensure alignment with her in-class flow and video pacing.
+
+Timeline remains on track. Post-production and course site wrap-up scheduled by August 1
+
+Next steps
+    Continue editing video modules and share the initial batch with Josephine (Maddie/Matthew)
+    Complete homepage and key module setup (Yi)
+    Josephine to begin writing the chapter content in the Sandbox"
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-06-27T19:45:20.064Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Jun 27,"Summary
+Production completed
+Filming for the project officially wrapped this week. All planned screencasts were recorded on schedule, marking the transition into the post-production phase.
+ 
+Studio collaboration success
+Maddie spent several hours in the studio supporting Josephine throughout the recording sessions and did a fantastic job coordinating production. Josephine expressed strong appreciation for the collaborative process, and the sessions went smoothly thanks to behind-the-scenes support from Matthew.
+ 
+Post-production begins
+With all recordings completed, the team is now shifting focus to editing, slide integration, and polishing final assets. 
+
+Next steps
+    Begin post-production editing and slide syncing.
+    Internal review of video assets as they are finalized.
+    Coordinate the QA timeline leading up to the August 1 wrap-up."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-06-20T19:44:55.013Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Jun 20,"Summary
+Pre-production finalized
+All scripts have been reviewed and marked as complete. Final slide updates and media team revisions have been identified and are being completed before production begins on June 23. Josie has completed Script 16 and is finalizing the restructuring of slides for Scripts 13-15, as well as housing data for Scripts 18-20.
+ 
+Slide and visual adjustments underway
+The media team is updating slides across multiple scripts to reflect the new structure and formatting requirements. This includes building new decks (Script 19), removing dense visuals (Slide 21), and ensuring browser demos and visuals align with the updated script flow.
+ 
+Production logistics finalized
+Studio onboarding is scheduled for Monday, June 23. Filming will proceed in script order, with R-based scripts saved for the end. Josie will lead recordings; Maddie will provide in-studio support throughout the week.
+ 
+Timeline Confirmed
+    Pre-production complete: June 18
+    Studio recording: June 23–26
+    Post-production & QA: through August 1
+
+
+Next steps
+    The media team is to complete slide adjustments by Monday.
+    Josie will upload the updated slides and confirm the structural changes (Scripts 13–20).
+    The production schedule will be shared on Monday morning; Wednesday’s meeting has been canceled due to filming."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-06-13T18:27:57.001Z,on_track,Janyl Ismailova,Sprint 2025: Statistics Flipped Class - Jun 13,"Summary
+Script Review
+    Josie shared drafts for scripts 1–3 and 13–20. Some scripts (particularly 13, 15, 17–20) require updates, including IVQ placement, revised outputs, and trimmed text.
+    Slide 1201 (PDF reference) will be integrated.
+    All revisions are due by the 6/18 meeting for the final pre-production wrap-up.
+Production Planning
+    Tentative studio holds have been confirmed for the week of 6/23.
+    Josie will lead the screencasts; Matthew and Maddie will support setup and quality control. Most videos will be recorded on Monday and Wednesday, with Thursday as a buffer.
+Timeline
+    Script revisions finalized: by 6/18
+    Production: week of 6/23
+    Post-production & QA: by 8/1
+
+
+Next steps
+    Josie to complete final slide/script edits (13–20), update outputs, and upload materials before 6/18.
+    Matthew will finalize the studio setup and onboarding.
+    Maddie to begin organizing the slide deck and reviewing scripts 10–20 for clarity."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-06-06T14:17:37.572Z,on_track,Lawrence Greenspun,Sprint 2025: Statistics Flipped Class - Jun 6,"Summary
+    Maddie joined us and will be working on production and post-production for this project!
+    Yi and Josie conferred on a variety of design and content matters such as the use and placement of a short description and learning objectives for each ""chapter"" and the use of in-video and after-video quizzes.
+    Matthew gave a thumbs up to Jodie's scripting work in general, and then they walked through particular questions that Matthew had.
+
+
+Next steps
+    Josie feels she is on schedule to complete all of the scripts this week.
+    Matthew will continue reviewing the drafted scripts and go through the slide decks with Maddie.
+    We'll have a week to review and revise the scripts and then look to do production the Week of June 23."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-06-01T12:33:41.033Z,on_track,Lawrence Greenspun,Sprint 2025: Statistics Flipped Class - Jun 1,"Summary
+    Confirmed for 22 screen casts.
+    Josie's slides were determined to be fine as is—no need for an ODL template.
+    Matthew recommended that Josie cut down her slides before scripting to save time and to limit scripts to four pages or less.
+    Josie's draft scripts were given a thumbs up, and she is to continue as she has been.
+
+
+Next steps
+    Josie will make any revisions to Scripts 1-3 and try to finish drafts through Week 11 or 12 by Tuesday.
+    Matthew will continue script review ahead of 6/4 team meeting."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-05-23T18:59:17.653Z,on_track,Lawrence Greenspun,Sprint 2025: Statistics Flipped Class - May 23,"Summary
+    Yi gave Josephine a thumbs up on her course map work, though we discussed several lessons that had an abundance of learning objectives that might be hard to meet in one video.
+    Altogether, we are planning for 22 videos. There are possibly two more that we'll support if the learning design calls for that.
+    Matthew reviewed the pre-production process for Josephine with an emphasis on hitting the 5-7 minute sweet spot for video length by focusing on the most important content for students to get in advance of the class meeting.
+    Decision was made to go with Josephine's slides as currently designed, using call outs, zoom, and highlights as needed.
+    Matthew is preparing script templates for each of the videos.
+
+
+Next steps
+    Josephine will complete a couple of sample scripts for this week's meeting.
+    The goal is to have all scripts completed by 6/13 with the goal of production taking place the week of 6/27."
+1210202036254651,Sprint 2025: Statistics Flipped Class,2025-05-16T14:06:46.949Z,on_track,Yi Lu,Sprint 2025: Statistics Flipped Class - May 16,"Summary
+The kickoff meeting was productive. We identified key challenges in Josie’s class, clarified the learning design and media development processes, and reviewed the project timeline. Josie liked the course site design Yi showed, and Yi will help with the course build. 
+
+Next steps
+Josie is currently developing a learning map to outline the video learning objectives, topics, and assessments, with Yi providing feedback offline. Once alignment is confirmed, Josie will start to work on video scripts."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-07-27T22:02:17.907Z,complete,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jul 27,"Summary
+    IP Agreement has been fully executed.
+
+
+Next steps
+    Paul will be sent a survey and then we'll hold a retrospective."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-07-17T17:58:46.615Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jul 17,"Summary
+    Paul has been pinged a couple of time on the IP Agreement without a response.
+
+
+Next steps"
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-07-10T18:19:23.076Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jul 10,"Summary
+    We met with Blake from the OGC to set an approach for the IP Agreements for the two current AI-based projects as a precedent going forward.
+    The agreements were finalized and sent out for execution.
+
+
+Next steps
+    Follow up for full execution of the agreements."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-07-04T14:36:25.290Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jul 4,"Summary
+    Just trying to work out some IP Agreement related issues with Blake from the OGC.
+
+
+Next steps"
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-06-29T18:20:12.385Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jun 29,"Summary
+    Paul indicated that he felt good about having integrated the feedback Kuangchen provided on the pre- / post-test they were revising.
+    Paul met with Roberto to further develop the AI Tutor prompt they are devising.
+
+
+Next steps
+    Paul will have a chance to pilot the pre- / post-test with students and TAs and integrate their feedback for future implementations.
+    Other than figuring out some details on the IP Agreement, this project is complete."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-06-19T19:28:39.156Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jun 19,"Summary
+    Paul made updates to his pre- / post-test based on Kuangchen's feedback.
+
+
+Next steps
+    We'll be meeting later today to review Paul's updates.
+    Paul is meeting with Roberto this week to continue work on the prompt development."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-06-15T17:26:44.841Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jun 15,"Summary
+    Paul and Kuangchen were both away last week, so no update.
+
+
+Next steps
+    We are scheduled to meet today to review the pre- /post-test revisions made by Paul."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-06-06T14:25:09.990Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jun 6,"Summary
+    Paul indicated that there is a version of the prompt for the critical thinking AI tutor tool that is working well, though he wants the prompt to reply more Socratically.
+    Kuangchen went over best practices for Paul in developing his pre- / post-test.
+    Paul shared his draft pre- / post-test with Kuangchen asynchronously. 
+    Kuangchen provided some feedback, as well as a matrix template to help him align each of the questions with a targeted assessment goal.
+
+
+Next steps
+    Paul will revise the pre- / post-test while Kuangchen is away this week, and we'll reconvene next week."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-06-01T12:42:47.739Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - Jun 1,"Summary
+    Paul produced a draft prompt for Roberto to review and revise.
+    Paul tested Roberto's draft prompt, and—with a few tweaks—approved using it.
+    Paul was to have drafted a pre-and post-test/survey with 25 critical thinking and five confidence (trust in AI and impact of that) questions to share with Kuangchen.
+
+
+Next steps
+    Kuangchen and Paul will review and revise Paul's test/survey questions.
+    Paul will follow up with TAx on the prompt and development of the AI tutor.
+    Other than check-ins, that might be it for our role in this project."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-05-23T19:15:58.046Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - May 23,"Summary
+    Roberto joined the meeting and consulted with Paul on developing the prompt for integration with the TAx platform.
+    Kuangchen consulted with Paul on how to revise his pre- and post tests so that the questions better align to the course content and objectives—to improve student's critical thinking skills
+
+
+Next steps
+    Paul and Roberto are meeting to work on the prompt development.
+    We'll meet again with Paul on 6/2 with a focus on his pre- and post test revisions."
+1210202036254727,Sprint 2025: AI Tutor--Critical Thinking,2025-05-16T19:48:48.948Z,on_track,Lawrence Greenspun,Sprint 2025: AI Tutor--Critical Thinking - May 16,"Summary
+    Paul laid out his vision and goals for the project, as well as his plans for moving it forward—which mostly involve integrating an AI platform that he's been using with an outside organization call TAx.
+
+    Kuangchen helped him realize how revising his pre- and post-test was essential to achieving the learning objectives and course and project goals.
+
+    Lawrence met with Steve and Roberto to find out what they needed from Paul on the integration, which led to a follow-up meeting with TAx to get everyone on the same page and aligned with the integration process.
+
+
+Next steps
+    Kuangchen will collaborate on developing the pre- and post-test (using the https://docs.google.com/document/d/1s0kIfA499J_LDf8kMBE3rVUOrQFzhJuiFyFZx5pYwKg/edit?tab=t.0#heading=h.8gbavn53kcos). Kevin Guidry from Notre Dame Learning can be consulted on this.
+
+    Lawrence will continue to coordinate the integration process between ND and TAx."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-07-27T22:03:15.868Z,complete,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jul 27,"Summary
+    Jason was sent a survey.
+
+
+Next steps
+    We'll hold a retrospective once the survey is returned."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-07-17T17:58:14.265Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jul 17,"Summary
+    IP Agreement was signed without any pushback.
+
+
+Next steps"
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-07-10T18:20:01.584Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jul 10,"Summary
+    We met with Blake from the OGC to set an approach for the IP Agreements for the two current AI-based projects as a precedent going forward.
+    The agreements were finalized and sent out for execution.
+
+
+Next steps
+    Follow up to ensure the agreements are fully executed."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-07-04T14:36:46.956Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jul 4,"Summary
+    Just trying to work out some IP Agreement related issues with Blake from the OGC.
+
+
+Next steps"
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-06-29T18:25:04.617Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jun 29,"Summary
+    Pending the resolution of some issues related to the IP Agreement, this project is complete.
+
+
+Next steps
+    We do need/want to get a story from Jason about this project down the road."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-06-21T21:54:28.782Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jun 21,"Summary
+    This project is in Jason and Seth's hands for development of their AI/LLM tool with their partners.
+    Jason did return the project charter but did not provide any feedback on the request for an update on the progress with the AI/LLM tool.
+
+
+Next steps
+    Lawrence will continue to check in with Seth to try to learn how the tool development is going."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-06-15T17:28:14.417Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jun 15,"Summary
+    This project is in Jason and Seth's hands for development of their AI/LLM tool with their partners.
+    We did not hear back on an email check in.
+
+
+Next steps
+    Lawrence will be sure to connect with Jason for an update."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-06-06T18:15:48.856Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jun 6,"Summary
+    Jason and Seth are working with their partners to develop the AI/LLM tool.
+
+
+Next steps
+    Lawrence will check in with Jason and Seth this week to get an update on their progress."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-06-01T12:57:10.474Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - Jun 1,"Summary
+    Kuangchen met asynchronously with Jason on the revised language/verbs for his course map learning objectives.
+    Jason and Seth will be moving forward with their partners on putting the AI tool together, testing, refining, and deploying it--all of which are not ODL dependent.
+
+
+Next steps
+    We will check in occasionally to see how the AI tool development is going."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-05-23T19:24:02.660Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - May 23,"Summary
+    Kuangchen met individually with Jason to develop his course map.
+    Roberto went over the responsible and ethical AI issues with Seth and Jason and came up with language to address student data gathering and privacy concerns.
+
+
+Next steps
+    Jason will revise course map objectives language to make them more measurable and consult with Kuangchen asynchronously to finalize the course map.
+    Jason and Seth seem good to go to develop their AI/LLM tool. Lawrence will check in with them for updates and about any support they might need."
+1210202036254791,Sprint 2025: Transforming FIN / MSBR Course,2025-05-16T20:10:48.120Z,on_track,Lawrence Greenspun,Sprint 2025: Transforming FIN / MSBR Course - May 16,"Summary
+    Jason and Seth detailed their vision for this project and their plan for realizing it. Most of that involves work outside the purview of ODL.
+
+    But Jason and Seth were singularly focused on the integration of their LLM-AI tool into their course and not so much on how they can integrate their assessments, learning activities, instructional material with their learning objectives, the LLM-AI tool, and overall course goals. Kuangchen sold them on that process.
+
+    Steve and Roberto had indicated that the tool Jason and Seth are producing will need to be vetted by OIT. Jason and Seth felt that was not necessary at this time, since they are not trying to integrate their tool into any ND systems.
+
+
+Next steps
+    Seth will use the Course Map Template Kuangchen prepared to integrate and align the various aspects of the course and project. Jason asked to work directly with Kuangchen on this.
+
+    Lawrence will sort through the issue of whether or not OIT needs to vet or sign off on what Jason and Seth are doing."
 1211134268245785,ACE Higher Powered Learning (HPL),2026-01-23T18:56:06.678Z,complete,Michael Lerma,ACE Higher Powered Learning (HPL) - Jan 23,"Summary
 
 Next steps
@@ -7768,6 +8156,178 @@ Next steps
 Blockers
     High volume of unfinished videos and slides → need to prioritize scope to meet December deadline.
     Platform decision (Circle vs. Canvas) still pending."
+1211140968261021,Evaluating Generative AI as a Critical Thinking Tutor in God and the Good Life,2025-09-16T16:05:39.882Z,on_track,Michael Lerma,Evaluating Generative AI as a Critical Thinking Tutor in God and the Good Life - Sep 16,"Summary
+On Sept 9 we had our kickoff meeting where we discussed the current status of the project, what the desired outcomes were and the logistics and timeline
+
+Summary - 
+    We determined the outcomes that are needed are the following:
+        Assess what's working and what's not working for the AI Tutor
+        Publish a follow up paper
+        Evaluate via pre/post test results of students about the gains that students made and the growth based on AI Skepticism / Trust
+    This is for a single class - two serperate sections
+    An Umbrella IRB form will be needed
+
+Action Items:
+    Michael - Add Judy Lee - undergrad for these meetings
+    Michael - Set up meetings - every other week through November
+    Roberto - Follow up with ThinkerAnalytics about the data 
+    Paul - share papers in the Google Drive
+
+
+Next steps
+
+    Review/refine research questions
+    (Roberto/Paul) Fill out the irb https://learning.nd.edu/resource-library/umbrella-irb/ 
+        https://docs.google.com/document/d/17GttYz9xD08LQGdZsKXbUT4GvQvLjSZM2hrsTtmeUHg/edit?tab=t.0
+    Target journals or conference
+        Teaching Philosophy Journal-check out
+    Data Collection
+        Review pre test and survey questions and results
+        Discuss post test and survey questions and results
+        Sample export of current log data"
+1211154824956969,Force for Good Video Project,2025-12-11T19:27:13.354Z,complete,Lawrence Greenspun,Force for Good Video Project - Dec 11,"Summary
+
+Next steps"
+1211154824956969,Force for Good Video Project,2025-12-11T19:26:58.293Z,on_track,Lawrence Greenspun,Force for Good Video Project - Dec 11,"Summary
+    Derrick shared access to the video with Nydia and the student actors.
+    We held a retrospective and the Reflection Report will be ready later this week.
+
+
+Next steps
+    This project will be moved to the completed folder after today's meeting!"
+1211154824956969,Force for Good Video Project,2025-12-03T20:45:39.659Z,on_track,Lawrence Greenspun,Force for Good Video Project - Dec 3,"Summary
+    Surveys are back from Erin. Hoping to receive Terry's.
+
+
+Next steps
+    Retrospective on Wednesday.
+    Reflection Report will be ready for next week and we'll move this to completed!"
+1211154824956969,Force for Good Video Project,2025-11-26T19:16:05.092Z,on_track,Lawrence Greenspun,Force for Good Video Project - Nov 26,"Summary
+    Derrick made a couple of final edits, and the video has been passed on to the McDonnells!
+    The survey went out to the McDonnells this morning, and the retrospective is scheduled for next week.
+
+
+Next steps
+    The McDonnells indicated that they will report back to us after the video is used in class."
+1211154824956969,Force for Good Video Project,2025-11-20T13:27:23.392Z,on_track,Lawrence Greenspun,Force for Good Video Project - Nov 20,"Summary
+    The McDonnell's provided feedback on the RC1s and Derrick shared the RC2s with them.
+
+
+
+Next steps
+    We should be ready to turn the Final Cuts over to the McDonnells before Thanksgiving and then get out the survey and plan a retrospective."
+1211154824956969,Force for Good Video Project,2025-11-13T18:21:51.533Z,on_track,Lawrence Greenspun,Force for Good Video Project - Nov 13,"Summary
+    Derrick completed the RC1s (Amazing!) and passed them on to the McDonnells.
+
+
+Next steps
+    We'll get feedback from the McDs this week and aim to have the videos ready for handoff before the holiday."
+1211154824956969,Force for Good Video Project,2025-11-06T19:57:41.851Z,on_track,Lawrence Greenspun,Force for Good Video Project - Nov 6,"Summary
+    Huge shout out to Matthew, Kevin, and writer-director-producer-boomer Derrick for a great shoot Tuesday night. All the participants seemed pleased and proud!
+
+
+Next steps
+    Derrick's on the editing horse!
+    Goal is to hand off the videos before Thanksgiving."
+1211154824956969,Force for Good Video Project,2025-10-31T17:08:59.357Z,on_track,Lawrence Greenspun,Force for Good Video Project - Oct 31,"Summary
+    Derrick, with support from Kevin, held a table read with our four main actors.
+    They will meet with Nydia briefly over Zoom today in advance of the shoot, which will take place tomorrow evening in O’Shaughnessy Hall.
+    Erin McDonnell took occasional breaks from preparing soup for her daughter during our Zoom call to sort of listen to Derrick's report out on the table read and overview of the production and post production plans
+
+
+
+Next steps
+    Tuesday night is the shoot! 
+    Lawrence is handling food and drinks, while Kevin supports Derrick with the shoot!
+    There's a pretty tight post production timeline to hand the video off before Thanksgiving."
+1211154824956969,Force for Good Video Project,2025-10-24T20:42:13.532Z,on_track,Lawrence Greenspun,Force for Good Video Project - Oct 24,"Summary
+    Things were pretty much on hold this week during break.
+    Derrick has been scouting locations.
+    There was no pushback from the McDonnells on not being included in the read through or filming, which feels like an important accomplishment.
+
+
+Next steps
+    We have a table read with the actors scheduled for Tuesday and will share the production plan with the McDonnells on Thursday.
+    Filming will take place next Tuesday evening."
+1211154824956969,Force for Good Video Project,2025-10-09T19:53:59.161Z,on_track,Lawrence Greenspun,Force for Good Video Project - Oct 9,"Summary
+    Derrick's revisions went over very well with the McDonnells. 
+    They had a number of suggestions and requests that all made sense if you squinted a little, and Derrick nimbly integrated them all into his script with little to no complication.
+    We've reached out to Steve V to see if he'll play the professor role and to Siiri from FTT to recruit student actors.
+
+
+
+Next steps
+    Derrick will try to ID and lockdown a location for the shoot this week, and Lawrence and KC will work on the actors.
+    Ideally we'll shoot before the end of the month and finalize the videos for handoff prior to Thanksgiving break."
+1211154824956969,Force for Good Video Project,2025-10-02T18:27:15.284Z,on_track,Lawrence Greenspun,Force for Good Video Project - Oct 2,"Summary
+    We corresponded with Terry and Erin to try to assure them that we would develop the script for their scenario in a way that would help them reach their course goals but also emphasized that there was not time or need for extensive rewrites (as they had proposed and wanted to propose doing again) given our tight timeline.
+    Prior to moving forward on the project, we had to hear from Terry and Erin on the Title VI review by the Office of Institutional Equity (not OGC as I mistakenly indicated last week) about any concerns or issues related to the event that prompted the scenario being used in this project.
+    As of the end of day Thursday, we had not heard back from Terry and Erin about their Wednesday meeting with OIE or about our stipulations regarding script development.
+
+
+Next steps
+    We will move forward or not according to what we hear from the McDonnells."
+1211154824956969,Force for Good Video Project,2025-09-25T19:13:28.470Z,on_track,Lawrence Greenspun,Force for Good Video Project - Sep 25,"Summary
+    Derrick developed a draft script based on his conversation with the student whose experience will be featured in the scenario.
+    Terry and Erin seemed to struggle with how they wanted their learning plans integrated into the script and were asked to make a couple of key decisions that will impact finalization of the script and identification of the actors.
+
+
+Next steps
+    Goal is for Terry and Erin to have made their decisions by last Friday and for Derrick to revise the script in advance of this Thursday's meeting.
+    Timeline
+        10/9: Pre-production, including finalization of script and identification of actors
+        By 10/31: Production (half day of shooting)
+        By Thanksgiving: Post production"
+1211154824956969,Force for Good Video Project,2025-09-18T19:41:47.829Z,on_track,Lawrence Greenspun,Force for Good Video Project - Sep 18,"Summary
+    Derrick met with the student whose experience will be used as the basis for scenario, and he shared his vision for the project with KC.
+    Derrick will develop a draft script that we'll share with the McDonnells in advance of Thursday's meeting.
+
+
+Next steps
+    Once the McDonnells sign off on the fundamental details of the scenario, we'll reach out to Siiri in FTT for actors, and Derrick will drive the pre-production forward with a goal of filming in October."
+1211154824956969,Force for Good Video Project,2025-09-14T21:23:00.746Z,on_track,Lawrence Greenspun,Force for Good Video Project - Sep 14,"Summary
+    We met with the McDonnells at their offices with the purpose of making clear the connection between the course learning objectives and the video scenario project, as well as preparing for the scenario brainstorm session.
+    However, Erin had identified a specific scenario she wanted to use, and so we mostly focused on the development process for that scenario, which will begin with Derrick meeting with the student who will provide background on the experience she had with an American-born professor saying something disparaging about their shared family homeland and society.
+
+
+Next steps
+    We will reconvene after Derrick meets with the student and gets the story basics clarified."
+1211154824956969,Force for Good Video Project,2025-09-07T19:52:57.612Z,on_track,Lawrence Greenspun,Force for Good Video Project - Sep 7,"Summary
+    At Sonia's suggestion, KC and Lawrence met with Horane to get insight and suggestions for handling the conversation with students on developing a scenario for the project video.
+    Horane's two main suggestions were to not use students from the course and to have the McDonnells clearly articulate the goal for the meeting in advance to the students so that anytime the conversation might veer off track, we can steer it back to the meeting's purpose.
+    Lawrence connected with Siiri Scott from FTT, who will help recruit students for the video.
+    Lawrence drafted the charter. It's out for review by the McDonnells.
+
+
+Next steps
+    Kuangchen, KC, Derrick, and Lawrence will visit the McDonnells on Thursday to get clarity on how to tie the course goals to the scenario and to prepare for the student scenario development meeting.
+    Lawrence will get the charter executed and then develop and share the IP Agreements."
+1211154824956969,Force for Good Video Project,2025-08-29T19:16:21.082Z,on_track,Lawrence Greenspun,Force for Good Video Project - Aug 29,"Summary
+    KC and Lawrence met with the McDonnells to revisit the project goal, which involves preparing one case study-style video of a campus-based, student-centered, moral-ethical dilemma.
+    Students would be asked to respond to the presented scenario applying tools learned in the course.
+    This pilot video would help determine if and how other videos might be developed down the road.
+    Derrick was identified as a good match for lead producer on this project, as the McDonnell's are invested in the scenario reflecting genuine student issues and concerns. 
+
+
+Next steps
+    We'll meet with the McDonnells, Derrick, and a learning designer on 9/11 to review the course learning objectives and determine how best to link them to the scenario and surrounding activities, as well as to identify the theme/situation for the scenario.
+    The goal is to have the video ready for use in the latter part of the fall semester."
+1211213483317129,AI Faculty and Student Summit ,2025-09-16T15:58:27.623Z,on_track,Michael Lerma,AI Faculty and Student Summit  - Sep 16,"Summary
+Project is on track
+
+Milestones reached:
+    Venue secured at the IDEA center - Room 109
+    Date and Time secured - November 14 - 2-5PM
+    Contract finalized and signed by Megan
+
+Updates from previous week:
+    Megan working on the flows 
+    Megan Interviewed several individuals
+    Michael talked with Nara about food options
+    Lorena, Horane, Nathaniel working on reconciliation of majors
+
+
+Next steps"
 1211360177216094,360 XR Workshop,2025-12-08T15:13:54.651Z,complete,Yi Lu,360 XR Workshop - Dec 8,"Summary
 
 Next steps"
@@ -8123,6 +8683,439 @@ Next steps"
 Sonia and I meeting today (9/15) as our first 2026 prep meeting. We'll discuss course listings, meetings with depts., workshop plans, etc. 
 
 Next steps"
+1211374929338555,Integrating AI Fluency into Physical Chemistry through Peer Instruction Polling,1970-01-01T00:00:00.000Z,on_track,Michael Lerma,,
+1211385006360353,Veterans College Math Readiness Course,2026-06-26T20:21:18.953Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - Jun 26,"Summary
+
+Project close on track
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-06-22T13:48:04.709Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - Jun 22,"Summary
+
+    Project handover went well! 
+
+----------------------------------------
+
+Next Steps
+
+    Enrollment support with TLT
+    Project wrap up process
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-06-12T22:22:22.410Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - Jun 12,"Summary
+
+    QA Completed
+    Handover meeting was delayed due to a QA Review delay; new Handover meeting is on Wednesday, June 17th
+
+----------------------------------------
+
+Next Steps
+
+    Retrospective
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-06-05T15:44:56.769Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - Jun 5,"Summary
+
+    Handover meeting this upcoming Wednesday, June 10th
+    Final QA underway
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-05-29T15:47:22.060Z,on_track,Kuangchen Hsu,Veterans College Math Readiness Course - May 29,"Summary
+
+Completed the course build and transitioned the project to the QA phase.
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-05-08T20:30:38.566Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - May 8,"Summary
+
+    Week 0 finalized
+    Waiting for final inputs from Brian for Canvas finalization
+
+----------------------------------------
+
+Next Steps
+
+    Confirm Respondus integration through Steve
+    Set up Canvas ExpaND 
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-05-04T10:47:48.138Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - May 4,"Summary
+
+    TLT meeting Monday, May 4th to set up course site in ExpaND
+    Instructional materials needed from Brian are documented in https://docs.google.com/document/d/1G5plCVI3iVn_gUj3PnYmQwgjrjNYJ4c0tbclinwpRvo/edit?tab=t.0
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-04-24T19:48:21.221Z,on_track,Kuangchen Hsu,Veterans College Math Readiness Course - Apr 24,"Summary
+
+LD Update:
+    Canvas site completed for Weeks 1 - 5; Week 0 remaining
+    Instructional materials needed from Brian are documented in https://docs.google.com/document/d/1G5plCVI3iVn_gUj3PnYmQwgjrjNYJ4c0tbclinwpRvo/edit?tab=t.0
+    TLT is working on integrating MathMatize into ExpaND; it should be available before summer.
+    We will meet with TLT on May 4 to set up the course site in ExpaND.
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-04-17T20:39:07.752Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - Apr 17,"Summary
+
+Design on track
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-04-10T17:56:17.893Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - Apr 10,"Summary
+
+    Kuangchen and Brian finalizing Canvas
+    QA to start week of May 11th
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-04-06T15:28:54.126Z,on_track,Annie Conaghan,Veterans College Math Readiness Course - Apr 6,"Summary
+
+Design underway, no new updates
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-03-27T18:14:27.736Z,on_track,Kuangchen Hsu,Veterans College Math Readiness Course - Mar 27,"Summary
+
+Learning Design
+    Aligned video sequences with the course map and updated the corresponding lecture pages in Canvas.
+    Decided to use Atomic Journal for weekly exit ticket reflections.
+
+----------------------------------------
+
+Next Steps
+
+
+
+----------------------------------------
+
+Finalize Week 1 in Canvas."
+1211385006360353,Veterans College Math Readiness Course,2026-03-20T14:31:01.125Z,on_track,Matthew Simmons,3/23,"Summary
+
+    Media is officially wrapped!! 🥳 
+        Panopto uploads and captioning completed
+        Last thing to do is upload master files to our Google Drive!
+
+Next Steps
+
+    Party! 
+    Actually, learning design / Canvas work will continue until the course launch.
+    But THEN we party 
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-03-13T12:22:12.460Z,on_track,Matthew Simmons,3/16,"Summary
+
+    Since the last cuts received thumbs up from Michael Labbe and the OMVA director, I've gone ahead and rendered master files.
+        I'll be QAing the files for any render issues or last minute fixes.
+        I'll double check with Michael this week if he would like one more round of reviews (even though no new edits have been made outside of FC audio/color). 
+            If not, I'll push on to delivery!"
+1211385006360353,Veterans College Math Readiness Course,2026-03-06T13:57:56.807Z,on_track,Matthew Simmons,3/9,"Summary
+
+    The RC2s of the Checkpoint videos received a thumbs up from Michael Labbe. 
+        He's sent the cuts over to Ken (OMVA director) for his feedback, and he ALSO gave us a thumbs up!
+        I'll be working on FC color and audio and expect to wrap these within the next week or two!! 
+
+----------------------------------------
+
+Next steps
+
+    FC edits and Masters!
+
+----------------------------------------"
+1211385006360353,Veterans College Math Readiness Course,2026-02-27T13:05:14.245Z,on_track,Matthew Simmons,2/27,"Summary
+    Math content is completed and up in Panopto — big thanks to Robin for completing the IVQ work. 
+    I'll aim to upload RC2s of the Checkpoint videos early this week. 
+        I'll need a quick chat with General Counsel regarding some of the YouTube video that Michael wants to include, but don't expect any issues on that front. 🙂 
+
+
+Next steps
+    Finish RC2s and send out for review"
+1211385006360353,Veterans College Math Readiness Course,2026-02-20T14:02:27.795Z,on_track,Matthew Simmons,2/23,"Summary
+Checkpoints:
+    Michael has left good feedback for RC2s. I'll be working on those and hopefully completing those this week. 
+
+Math Videos:
+    All content finalized and uploaded to Panopto. Robin will be adding IVQs this week and then we can share those with Kuangchen. 
+
+
+Next steps
+    RC2 editing
+    Finalizing Panopto content"
+1211385006360353,Veterans College Math Readiness Course,2026-02-13T13:13:06.528Z,on_track,Matthew Simmons,2/16,"Summary
+Checkpoint Videos:
+    https://f.io/-CIZIlPw were completed and shared with Michael Labbe 
+    RC2 editing begins - cleaning up edits and graphics, adding B-Roll, and whatever feedback Michael leaves for us
+
+Math Content:
+    Robin continues to kill it with the IVQ work — the rebranded content is pretty much ready to go, this week she'll shift to wrapping up the new content. 
+    Kolton completed review of the new math content, outside of a few small errors, these will be ready to render final files this week! 
+
+
+Next steps
+    RC1 checkpoint video feedback
+    Finalize math files and upload to Panopto."
+1211385006360353,Veterans College Math Readiness Course,2026-02-06T14:00:24.991Z,on_track,Matthew Simmons,2/9,"Summary
+Checkpoint Videos:
+    Planning on sharing the first rough cuts with Michael Labbe by the end of the week. 
+
+Math Content:
+    I met with Kolton to walk through the math lecture QA and shared the Frame link with her to get started. 
+    Robin will be working on adding the in-video questions to both the newest content and the rebranded ASCEND content. 
+
+
+Next steps
+    Edit and share the RC1s with Michael Labbe
+    Work with Kolton on math lecture reviews
+    Assist Robin with in-video question workflow — mainly showing her how to work in Panopto"
+1211385006360353,Veterans College Math Readiness Course,2026-01-30T15:58:28.080Z,on_track,Matthew Simmons,2/2,"Summary
+Checkpoint Videos: 
+    All production is wrapped! A big thank you to the media team for your support during a very busy week. 
+    Initial assemblies/RC1 editing has begun! 
+
+Math Content:
+    Determining workflow with Kolton reviewing this content for final QA. 
+
+
+Next steps
+    RC1 editing for the checkpoint videos
+    QA / Final looks for the math content"
+1211385006360353,Veterans College Math Readiness Course,2026-01-23T15:19:21.352Z,on_track,Matthew Simmons,1/26,"Summary
+Checkpoint Videos:
+    All locations and props confirmed
+    Final gear and production prep Monday morning
+    Schedule:
+        Tuesday, January 27th:
+            OMVA Offices: 9am - 11am 
+            Duncan Grad Lounge: 11:15am - 1pm 
+        Wednesday, January 28th:
+            McKenna Hall: 9am - 11am
+        Thursday, January 29th:
+            127 Hayes Healy: 2pm - 5pm
+
+Math Content:
+    FC1s of lightboards and lectures completed and sent to Brian for review. 
+    Rebranded ASCEND content on Panopto, waiting for approval on captions. 
+
+Reverse Rebrand:
+    Upon completion of the math content, we'll need to export versions with the ASCEND branding to add into the other ASCEND courses. 
+
+
+Next steps"
+1211385006360353,Veterans College Math Readiness Course,2026-01-12T14:19:14.357Z,on_track,Matthew Simmons,1/12,"Summary
+Checkpoint Videos: 
+3/4 locations and times confirmed:
+    Tuesday, January 27th:
+        OMVA Offices: 9am - 11am 
+        Duncan Grad Lounge: 11:15am - 1pm 
+    Thursday, January 29th:
+        127 Hayes Healy: 2pm - 5pm
+    Still waiting final confirmation for McKenna Hall on Wednesday, January 28th from 9am - 11am
+
+Final media preparations (props, production schedule, teleprompter, shot and gear planning) should be completed by the end of this week. 
+
+Math Content:
+    Meeting this week with Brian to talk math graphics with Colin, and changes to be made for RC2. 
+    Working on final cuts of lightboard videos.
+    A few branding misses on the Rebranded Content from Robin - this will be her first task on her return! 
+
+
+Next steps
+    Final media scheduling and preparations
+    Continue math editing"
+1211385006360353,Veterans College Math Readiness Course,2025-12-18T19:58:24.388Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Dec 18,"Summary
+    Matthew scouted locations and further developed the creative treatment for Michael Labbe's Checkpoint videos, including coordinating with external partners on some B-Roll opportunities.
+
+
+Next steps
+    We established a meeting schedule for the new year but will connect with Michael Labbe this week while Brian is still out to finalize plans for the Checkpoint videos.
+    We're looking at the Week of January 26 for production of those videos."
+1211385006360353,Veterans College Math Readiness Course,2025-12-11T19:42:28.679Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Dec 11,"Summary
+    There will be a 48-hour window for students to take the final because some of them may have 24-duty on a military base that will not allow them to access the course/Wifi, let alone Honor Lock.
+    Michael Labbe is meeting with Paul Mueller of Pre-College to discuss the long-term sustainability of the project in terms of OMVA wanting it to be tuition free.
+    Kuangchen provided a preview of the Canvas Homepage and the daily and weekly structures.
+    Brian is reviewing Matthews RC2s on the Lightboards and Colin has been busy with the graphics for the lecture videos.
+    Matthew has continued to provide feedback for Michael on his scripts and has helped to get Michael to accept a realistic creative treatment approach to the Checkpoint videos and the locations and timing for the shoots.
+    There are a couple of OMVA events where an outside company will be collecting video that we can use for B-Roll.
+    Robin has been busy updating the branding on traditional ASCEND content to make it Veteran College Math Readiness course ready!
+
+
+Next steps
+    We blocked out the week of 1/26/26 for production on Michael's Checkpoint videos.
+    Kuangchen is developing the Canvas page template for Brian to produce the text intros."
+1211385006360353,Veterans College Math Readiness Course,2025-12-03T20:57:33.990Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Dec 3,"Summary
+    Michael Labbe signed off on the new title card music that Matthew integrated.
+    Matthew identified places to split Brian's longer (18-20 min.) Lightboards. We're waiting for Brian's sign off on those and new titles for the videos.
+    Colin has been working on the graphics for the Lighboards and rough drafts will be shared this week.
+    Matthew has been matching B-Roll material to the scripts and pulling TED Talk clips.
+    Matthew reached out to the company handling videography/photography for an upcoming OMVA event for B-Roll access for us and to see if it makes sense for us to capture some content.
+    Kuangchen has been building out the master course shell.
+    Sonia has generously approved ODL covering. five Honor Lock proctoring seats for the project.
+    Robin has been rebranding the existing ASCEND content as needed.
+
+
+Next steps
+    We'll be finalizing revisions to Michael's scripts and setting up the production plan before Christmas Break.
+    Looking to complete Michael Labbe's filming the first week of February."
+1211385006360353,Veterans College Math Readiness Course,2025-11-26T19:30:00.015Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Nov 26,"Summary
+    Matthew shared takeaways from Brian's filming, which wrapped the week before last.
+        Some of Brian's Lightboard videos were in the 18- to 20-minute range and we'll likely need to be split in two.
+    Matthew is looking for some title card music that is a little more subtly martial.
+    Matthew gave a big thumbs up to Michael's draft scripts for the Checkpoint videos and shared some suggestions for revision—including giving them a little more of Michael's voice (as compared to Michael's AI voice).
+    As per Matthew's request, Michael shared access to existing potential B-Roll material.
+    Brian will be out this week, so we'll focus on further readying Michael's scripts for production.
+
+
+Next steps
+    Matthew is working on Brian's RC1s, while also getting Michael ready for production in January.
+    Robin is making all updates/edits to the existing ASCEND content.
+    Brian needs to rewrite the intros for Weeks 3-5.
+    Kuangchen is beginning work on developing the course shell."
+1211385006360353,Veterans College Math Readiness Course,2025-11-20T13:42:24.047Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Nov 20,"Summary
+    Matthew, with a big assist from Kevin, filmed Brian's lecture videos on Tuesday.
+    Michael Labbe shared his Checkpoint video draft scripts, and Matthew indicated that they are very solid.
+    After much delay, Paul Mueller from Pre-College returned the signed MOU and charter, which were passed on to the Office of Military and Veteran Affairs for review and signature.
+
+
+Next steps
+    Matthew will be working on the RC1s for Brian's videos, while we'll shift focus to Michael Labbe's scripts.
+    Robin will be working on any needed edits to the base ASCEND content."
+1211385006360353,Veterans College Math Readiness Course,2025-11-13T18:32:02.471Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Nov 13,"Summary
+    Matthew filmed Brian's Lightboard videos last week and uploaded them to https://Frame.io for Brian's review.
+    The lecture videos will be filmed tomorrow.
+    Michael Labbe will finishing drafting his ""Checkpoint"" scripts this week for feedback at next week's session.
+    Lawrence met with Paul Mueller from Pre-College and Michael to get alignment on the MOU and budget language. For some reason, Paul looked over the finalized documents and okayed them in an email without
+
+
+Next steps
+    Editing will continue on Brian's videos and minor revisions to the existing ASCEND content that's being carried over into this project."
+1211385006360353,Veterans College Math Readiness Course,2025-11-06T20:09:35.642Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Nov 6,"Summary
+    With Michael unavailable and Brian tending to a sick Declan, we did an email update/check in this week.
+    Matthew worked with Brian to get everything set for his Lightboard filming.
+    Various details of the MOU were complicated enough that we are going to meet in person to ensure clarity and alignment.
+
+
+Next steps
+    Matthew will record Brian's Lightboards this Tuesday and his lecture videos next Tuesdays.
+    Lawrence will meet with OMVA and Pre-College today to get clarity and alignment on the MOU and charter."
+1211385006360353,Veterans College Math Readiness Course,2025-10-30T12:25:25.971Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Oct 30,"Summary
+    Matthew led a media kickoff meeting to clarify all aspects of Brian’s scripting and production process and to set Michael Labbe from OMVA up to begin his scripting.
+    Half of Brian’s lectures will be Lightboards and the other half more traditional studio lectures.
+    Michael is expecting to complete his scripting by 11/21 and is working with Matthew to identify an appropriate setting (and props) for his five videos.
+    We discussed using Canvas Forum as a community building tool that includes Brian and Slack as a place for the students to communicate and community build in private.
+    Blake/OGC indicated that Brian does not need to be part of the MOU. With that clarified, we should be able to execute the MOU, Charter, and IP agreement this week.
+
+
+Next steps
+    Matthew will film Brian’s Lightboards on 11/11 and his studio lectures on 11/18.
+    Michael’s videos will be shot after the new year begins.
+    Colin is working on branding assets for the course."
+1211385006360353,Veterans College Math Readiness Course,2025-10-24T20:56:57.890Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Oct 24,"Summary
+    Kuangchen helped Michael from OMVA outline the content for each of his five videos in terms of the course goals.
+    Michael settled on ""Veterans College Math Readiness"" as the name for the course, and KC, Matthew, and Colin conferred on the branding and production approach.
+    Lawrence nailed down the details and relationships for the charter and MOU, which were a little more complicated than hoped for with a four-entity partnership between ODL, Brian, OMVA, and Pre-College. Blake is reviewing the MOU.
+    Brian drafted and shared all 12 of his scripts.
+    Matthew has provided feedback, updated the media asset list, and determined the proposed approach for the videos.
+
+
+Next steps
+    We have a quick huddle after All-Hands to ensure alignment on the branding and production approach, and Matthew will share that with Brian and Michael today, as well as set up a plan/timeline for Brian's production.
+    Michael's production will likely wait until the new year, though he can begin scripting now—with Kuangchen and Matthew preparing him and supporting him for that."
+1211385006360353,Veterans College Math Readiness Course,2025-10-16T16:49:37.968Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Oct 16,"Summary
+    KC joined us for a media consult and we agreed on the video assets to be developed for this course: 
+        1 Course Intro Video (Michael, Week 1)
+        3 Intro Testimonials (Michael, Weeks 2, 3, and 4)
+        1 Course Conclusion Video (Michael, Week 5)
+        12 Lecture/Content Videos (Brian)
+        Edited ASCEND Videos
+    Timeline
+        Brian said he would complete his script drafts by the end of fall break and determine which will be lectures and which will be lightboards. 
+        The goal is to review and revise scripts the two weeks after break
+        We're looking at production the mornings of 11/11 and 11/18.
+    Brian proposed some new course names. We will try to reach a decision on this today so that branding materials can be developed.
+    Kuangchen helped Brian come up with reflection assignments/prompts to replace the Week 1 and 5 testimonials.
+    We have a couple of financial details to finalize on the budget.
+
+
+Next steps
+    See timeline above."
+1211385006360353,Veterans College Math Readiness Course,2025-10-09T20:11:08.236Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Oct 9,"Summary
+    Michael Labbe from OMVA will be the featured person in the introductory, closing, and testimonial videos. So far he is suggesting just doing three module testimonial videos as introductions.
+    We settled on identifying members of this year's cohort who might effectively provide concluding module testimonials should this project go to another round/phase.
+    Kuangchen walked Brian and Michael through the course map and demonstrated the weekly work flow that Brian will follow for the two new modules. Kuangchen also detailed the Module 0 content with them.
+
+
+Next steps
+    KC will join us later today for a media consult and get alignment on the steps moving forward.
+    We are supporting the development of the budget and MOU between OMVA, Pre-College, and Brian.
+    Kuangchen is supporting Michael in the development of the content for the intro testimonials."
+1211385006360353,Veterans College Math Readiness Course,2025-10-02T18:45:14.695Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Oct 2,"Summary
+    Naomi indicated that she would finish her review of the ASCEND materials to see how much work would be needed to remove the branding by the end of this past weekend.
+    Kuangchen worked through the weekly content flow with Brian on the course map and finalized the model for the two new modules, pending a final decision on how and the nature of any introductory and concluding testimonial videos might be developed.
+    Based on the work above, Kuangchen is developing an asset list and finalizing the course map.
+    Lawrence completed and began to circulate the charter and IP agreement for review and signatures.
+
+
+Next steps
+    Michael Labbe from Office of Veteran Affairs will join this afternoon's meeting so that we can try to finalize the plans for any possible testimonial videos.
+    KC will join us next week for a media production consult. We'll need to move quickly from there as Brian would like to have all of his videos shot before winter break with a baby on the way in February."
+1211385006360353,Veterans College Math Readiness Course,2025-09-29T16:26:05.325Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Sep 29,"Summary
+    Naomi will be reviewing the current ASCEND content to see how big the lift is to remove the branding.
+    Kuangchen led a learning design kickoff session in which we considered the vision and scope, learner background, success metrics, cohort and demographics, the social learning component, and the weekly module structure.
+
+
+Next steps
+    Kuangchen has drafted the course map with a sample module for us to review. Brian will use that to draft the two new modules."
+1211385006360353,Veterans College Math Readiness Course,2025-09-21T00:48:03.736Z,on_track,Lawrence Greenspun,Veterans College Math Readiness Course - Sep 20,"Summary
+    We'd been calling this potential project the ASCEND for Military Veterans project, but it will not have ASCEND branding, hence the new name.
+    Brian Mulholland will be the SME and Michael Labbe from the Office of Veteran Affairs the other primary stakeholder. The program will be for veteran's who might be applying to ND. The main goals are to strengthen their applications and to help prepare them for success if they should enter the University (or any university).
+    There will be two new veteran-focused modules to start the program.
+    The current ASCEND Modules 1, 2, and 3 will become Modules 3 -5, and the current ASCEND Module 4 will be droppted.
+
+
+Next steps
+    Our first official project meeting will be today.
+    We'll try to get the charter and IP Agreements produced this week."
 1211489930659695,MS-ACMS Faculty Videos,2025-12-15T02:31:31.016Z,complete,Janyl Ismailova,MS-ACMS Faculty Videos - Dec 14,"Summary
 
 Next steps"
@@ -10219,6 +11212,124 @@ Ron, Adrea and Maura want to create a video outlining the importance of the CIF 
 Ron, Adrea and Maura are meeting at the end of January and will give us more information on who they can find and when we can potentially start filming. 
 
 Next steps"
+1212660246856608,Jim Lang Coursera Course,2026-05-27T13:42:09.271Z,on_hold,Michael Lerma,Jim Lang Coursera Course - May 27,"Summary
+
+Jim has decided to put this on hold since he has been recently asked to help restructure the University Seminar Program. 
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1212660246856608,Jim Lang Coursera Course,2026-05-04T13:17:29.122Z,on_track,Michael Lerma,Jim Lang Coursera Course - May 4,"Summary
+
+We're going to be starting this one back up the week of May 20. I will put something on everyone's calendars!
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1212660246856608,Jim Lang Coursera Course,2026-03-20T13:06:08.369Z,on_hold,Matthew Simmons,3/23,"Summary
+
+    Due to Jim's spring schedule and a desire to narrow the overall scope and focus of the course, we will be pausing development for the meantime. 
+    We have identified mid-to-late May as a point to reconvene with Jim and Kristi to pick this project back up, with the goal of filming near the end of summer and pivoting to a Spring 2027 release. 
+
+----------------------------------------
+
+Next steps
+
+    On hold until May! 
+
+----------------------------------------"
+1212660246856608,Jim Lang Coursera Course,2026-03-16T10:41:01.096Z,on_track,Michael Lerma,Jim Lang Coursera Course - Mar 16,"Summary
+
+We're pivoting on this course since Jim has concerns about scheduling in the next couple of months and the topic and structure keep changing. We're using today's meeting to talk more about the schedule.
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1212660246856608,Jim Lang Coursera Course,2026-03-09T12:27:51.386Z,on_track,Michael Lerma,Jim Lang Coursera Course - Mar 9,"Summary
+
+Our next meeting will be on Mar 16 and we will talk through all of the media details. Jim fully understood Kuangchen's guidance for the course map. I'll make sure before that meeting that it is filled out and finalized.
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1212660246856608,Jim Lang Coursera Course,2026-03-02T01:13:22.924Z,on_track,Michael Lerma,Jim Lang Coursera Course - Mar 1,"Summary
+We were not able to have a meeting on Friday due to Jim getting back late from travelling. We have a follow up on Tuesday. Kuangchen gave guidance on what needs to be covered on the course map. We're hoping Tuesday is early enough (before the baby comes) to answer any of Jim's questions. He has committed to finishing the course map as soon as he can based on Kuangchen's instructions.
+
+Next steps"
+1212660246856608,Jim Lang Coursera Course,2026-02-23T14:29:25.333Z,on_track,Michael Lerma,Jim Lang Coursera Course - Feb 23,"Summary
+We meet with Jim this Friday. We'll do an internal huddle and make sure we use the hour and a half efficiently.
+
+Next steps"
+1212660246856608,Jim Lang Coursera Course,2026-02-16T03:08:01.507Z,on_track,Michael Lerma,Jim Lang Coursera Course - Feb 15,"Summary
+We had a great meeting on Thursday. So great that it ran over an hour over the time (in a good way). 
+
+We ended up fleshing out a lot of the course map. Our original plan was to do it just for one module to demonstrate it to Jim and Kristi but we now have five modules that are pretty thought out but require a bit of tweaking.
+
+We have a meeting scheduled on Feb 27 to completely finalize the course map and then start on some of the scripting for the videos.
+
+We also have a meeting scheduled for Mar 16 and the hope is that Jim can film some of the content while he is here that week. 
+
+Great progress so far!
+
+Next steps"
+1212660246856608,Jim Lang Coursera Course,2026-02-09T02:50:24.362Z,on_track,Michael Lerma,Jim Lang Coursera Course - Feb 8,"Summary
+We meet on Feb 12. The main objective of the meeting is to finalize the course map. As of this weekend, Jim hasn't filled out the course map. I will nudge him on Monday and remind him that we will talk about the course map.
+
+Matthew will join for video discussion but we will lead with the course map and finalizing this first.
+
+Next steps"
+1212660246856608,Jim Lang Coursera Course,2026-02-02T04:12:37.661Z,on_track,Michael Lerma,Jim Lang Coursera Course - Feb 1,"Summary
+Scheduled our next touchbase for Feb 11. We will include Matthew to start thinking about the creative vision for the videos he is looking to do.
+
+Our internal group will huddle beforehand to make sure we're on the same page and to present a well thought out agenda to follow.
+
+Next steps"
+1212660246856608,Jim Lang Coursera Course,2026-01-26T13:57:52.126Z,on_track,Michael Lerma,Jim Lang Coursera Course - Jan 26,"Summary
+We met with Jim the other week and the meeting went well. We clearly outlined the structure we wanted to take with Coursera backed by studies from Coursera that Kuangchen presented on. The course will be 4 modules plus an intro module. The topics will be:
+
+    Bodies
+    Spaces
+    Time 
+    Relationships
+
+In addition, Jim is thinking the video structure will be the following per module:
+    One long lecture type video with him as the subject + classroom b-roll as appropriate 
+    One short guest appearance video by an ND Learning expert
+    One short guest appearance video by another ND faculty member
+
+Jim is aiming to have all of his thoughts on how they want this organized by Feb 9 which will be when we meet next.
+
+Next steps"
+1212660246856608,Jim Lang Coursera Course,2026-01-12T14:41:18.674Z,on_track,Michael Lerma,Jim Lang Coursera Course - Jan 12,"Summary
+Meeting this week with Jim to start the design process for the course
+
+Next steps"
+1212660246856608,Jim Lang Coursera Course,2026-01-05T14:28:40.264Z,on_track,Michael Lerma,Jim Lang Coursera Course - Jan 5,"Summary
+Back in November we had discussed the following:
+
+    We talked about what the course would include - Focus on small teaching, commitment to techniques, how do we relate this to the age of AI
+    We talked about the differences between Coursera and Canvas Expand - the importance of having a broader reach was a big consideration 
+    We talked through when we would like to have the course - Fall semester 2026 would be ideal
+
+We have since made the decision that we're going to use coursera. We meet next week to start making progress towards the design of the course.
+
+Next steps"
 1212660351308233,Designing to Communicate: Strengthening Communication in Engineering Through Real-World Sustainability Contexts,2026-06-08T12:59:47.676Z,on_track,Michael Lerma,Designing to Communicate: Strengthening Communication in Engineering Through Real-World Sustainability Contexts - Jun 8,"Summary
 
 Still waiting on the licenses for Ovation through OIT. 
@@ -10667,6 +11778,153 @@ Continuing to work through course goals, topic flow, and objectives. Bright spot
     ""Well I think we need to narrow down LOs because we can't work on assessments without them.""
 
 
+
+Next steps"
+1213084870202768,Beginning Italian 1,2026-05-13T19:43:20.737Z,complete,Michael Lerma,Beginning Italian 1 - May 13,"Summary
+
+
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1213084870202768,Beginning Italian 1,2026-03-23T14:32:58.316Z,on_track,Kevin DeCloedt,Beginning Italian 1 - Mar 23,"Summary
+
+Naomi completed rough cut 1 of all three videos (thank you Matthew for your help). Frame link has been sent to Tessa for her review. 
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-05-13T19:43:06.899Z,complete,Michael Lerma,SO Stats - May 13,"Summary
+
+
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-05-04T13:34:04.310Z,on_track,Derrick Patrick,SO Stats - May 4,"Summary
+
+    The 17 videos were passed on to Yi via a panopto folder for implementation into the canvas site.
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-04-27T13:58:22.715Z,on_track,Derrick Patrick,SO Stats - Apr 27,"Summary
+
+    Sending Josie FC1 tomorrow
+    Finalized and sending to Yi by end of day Wednesday 
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-04-13T13:26:58.360Z,on_track,Derrick Patrick,SO Stats - Apr 13,"Summary
+
+    Sending Josie RC1s today
+    May need 30 minutes of studio pickup time
+    Video length and audio issues increased (learned experience)
+    FC1 to Yi by 4/24 
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-03-30T13:24:39.351Z,on_track,Derrick Patrick,SO Stats - Mar 30,"Summary
+
+RC1s will be sent out the morning of Friday, April 3rd 
+
+----------------------------------------
+
+Next steps
+
+    Send RC1 to Josie
+    Talk w/ Colin about title card
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-03-23T13:29:21.991Z,on_track,Derrick Patrick,SO Stats - Mar 23,"Summary
+
+    Yi and I met with Josie last week to discuss post production timeline and canvas stuff.
+    Continuing to edit and plan to have RC1 by next week. 
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-03-16T12:58:24.683Z,on_track,Derrick Patrick,SO Stats - Mar 16,"Summary
+
+Production last week went very well and Josie was great. This week and next week I'm working on RC1s. 
+
+----------------------------------------
+
+Next steps
+
+
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-03-09T13:44:43.175Z,on_track,Derrick Patrick,SO Stats - Mar 9,"Summary
+
+    All scripts are completed and we are ready for filming on Wednesday and Thursday
+
+----------------------------------------
+
+Next steps
+
+    Sending Matt the production schedule later today
+    Meeting with Josie tomorrow to discuss production schedule and answer any lingering questions 
+    Begin Editing next week
+
+----------------------------------------"
+1213084870202773,SO Stats,2026-03-02T14:39:22.949Z,on_track,Derrick Patrick,SO Stats - Mar 2,"Summary
+    Josie completed 10 scripts so far (2 more to go) 
+    Filming is March 12-13
+
+
+Next steps
+    Josie has 2 more scripts to finish by Wednesday
+    Write plan for production days
+    Practice overlays this week"
+1213084870202773,SO Stats,2026-02-23T14:39:25.240Z,on_track,Derrick Patrick,SO Stats - Feb 23,"Summary
+    Josie completed 6 scripts and has 6 more to go. 
+    KC and I have had a bit of a breakthrough for chart overlays for these videos.
+
+
+Next steps
+    Josie: Complete 3 more scripts by our Thursday meeting this week.
+    Derrick: Go over last weeks scripts and continue overlay work"
+1213084870202773,SO Stats,2026-02-16T15:36:40.391Z,on_track,Derrick Patrick,SO Stats - Feb 16,"Summary
+    Answered some of Josie questions and she grinding out script outlines
+    Looking into cool and updated ways to present content in the lightboard videos
+
+
+Next steps"
+1213084870202773,SO Stats,2026-02-09T14:23:24.488Z,on_track,Derrick Patrick,SO Stats - Feb 9,"Summary
+Met with Josie this past Thursday and things are on track. Went over her script and gave some reassurance for scripts going forward. 
+
+Potential filming dates are March 12-13 and she said this is best for her.
 
 Next steps"
 1213292120696334,NEON - R&E AI,2026-07-13T13:06:42.958Z,on_track,Brianna Stines,NEON - R&E AI - Jul 13,"Summary
@@ -11693,6 +12951,17 @@ Great meeting! We locked in on our design strategy that we will use storytelling
 Next steps
 
 Veronica will further organize and draft the content. 
+
+----------------------------------------"
+1215186457850668,Sprint Consultations,2026-06-12T22:22:42.896Z,on_track,Annie Conaghan,Sprint Consultations - Jun 12,"Summary
+
+    We had a sprint consultation with Tom Mustillo last week that went well
+
+----------------------------------------
+
+Next steps
+
+
 
 ----------------------------------------"
 1205980079388145,Teaching Everyone,2024-08-09T13:31:11.325Z,complete,Michael Lerma,Status update - Aug 9,8/2 updates
@@ -14454,6 +15723,8 @@ Next steps"
 Consultations - Nathaniel has been marked as complete."
 1208345374594366,AI Video Series - John,2024-10-14T19:50:44.475Z,complete,Michael Lerma,Status update - Oct 14,"Summary
 AI Video Series - John has been marked as complete."
+1208345374594371,AI Video Series - Nathaniel,2024-10-14T19:50:17.015Z,complete,Michael Lerma,Status update - Oct 14,"Summary
+AI Video Series - Nathaniel has been marked as complete."
 1208345374594375,AI Video Series - Ardea,2024-10-14T19:50:04.315Z,complete,Michael Lerma,Status update - Oct 14,"Summary
 AI Video Series - Ardea has been marked as complete."
 1208345374594379,AI Video Series - Alex,2024-10-14T19:49:55.607Z,complete,Michael Lerma,Status update - Oct 14,"Summary
@@ -17287,6 +18558,145 @@ Next steps"
 Progress is going well! We had a longer session last week with Liz and finalized the course map as well as went through more details on the avatars to be used for the VR simulation. Liz has been very organized with the amounts of information she has so we will compile everything we can before Michael T gets back in July and he should be good to go with running with this project development
 
 Next steps"
+1210576824930050,Spectrum X Consultation,2025-10-07T12:47:57.506Z,complete,Lawrence Greenspun,Spectrum X Consultation - Oct 7,"Summary
+
+Next steps"
+1210576824930050,Spectrum X Consultation,2025-10-02T18:22:34.726Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Oct 2,"Summary
+    All materials for the two courses were handed off to SpectrumX, which will decide on its next steps—which will not include us.
+
+
+Next steps
+    This project will be moved to ""Completed"" for next week."
+1210576824930050,Spectrum X Consultation,2025-09-25T16:34:06.463Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Sep 25,"Summary
+    Tom's content is mostly integrated into the various templates and should be ready for handoff to SpectrumX tomorrow.
+
+
+Next steps
+    Lawrence and Sonia will meet with the SX team to prepare for the transfer of needed assets for future course development."
+1210576824930050,Spectrum X Consultation,2025-09-18T19:35:39.468Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Sep 18,"Summary
+    David Reed completed all of his Phase 1 course development work, and that was passed on to SpectrumX.
+    Tom Hazlett gathered and dumped a lot of content but still has more to do.
+
+
+Next steps
+    We will take an extra week or so to get Tom's work in the proper format for the templates. We should be able to do this by 9/30.
+    We won't be working with SpectrumX going forward."
+1210576824930050,Spectrum X Consultation,2025-09-14T21:17:04.469Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Sep 14,"Summary
+    David completed his draft course map.
+    David and Lawrence met and worked on the Course Alignment document.
+    Kuangchen provided feedback on some of David and Tom's materials.
+    Lawrence and Tom worked synchronously on his course outline and asset list.
+    Lawrence used the course map to produce David's asset list.
+
+
+Next steps
+    David has all of the final drafts and will review them this week with the goal of turning everything into Spectrum X by Friday.
+    Tom and Lawrence will continue with synchronous working sessions over the next two weeks and then Lawrence will migrate everything into the appropriate templates."
+1210576824930050,Spectrum X Consultation,2025-09-07T19:45:55.411Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Sep 7,"Summary
+    David is about 90% of the way through his Course Map. He should have it done by our Tuesday meeting.
+    We'll have more than a week to make any tweaks to the Course Map and develop the Course Alignment document.
+    Tom completed Module 2 in his outline, but the goal was for him to be through with the outline altogether. He also needs to identify and detail more and a greater variety of learning content sources.
+    Lawrence provided the Spectrum X Education and Workforce Development Group with an update on the course development process.
+        The goal is to turn over the content produced by David and Tom, which would give the SX team three weeks to review it and suggest revisions and then three weeks for David and Tom
+
+
+Next steps
+    As indicated, David will complete his course map and use that to create the Asset List spreadsheet. We'll then use ChatGPT to draft material for his Course Alignment document for him to review and revise.
+    David will have to have his outline completed and a somewhat robust asset list developed this week if we hope to be able to share his work by the 9/19 timeline."
+1210576824930050,Spectrum X Consultation,2025-08-29T18:45:48.060Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Aug 29,"Summary
+    David Reed made excellent progress on his course map and will focus on adding the additional resources over the next two weeks.
+    Tom Hazlett redrafted his learning objectives and module overviews (awaiting review by Lawrence and Kuangchen) and will follow the format used for Module 1 to draft his course map for Modules 2 and 3. 
+    Tom also needs to produce an asset list (linked to specific modules and lessons) of videos, slide shows, and readings.
+
+
+Next steps
+    With insight and advice from Kuangchen, Lawrence will help Tom revise his learning objectives.
+    Lawrence will support Tom and David in finalizing their course maps and other documents for the week of 9/15.
+    We will try to get Tom, David, and Nick on a call to review each other's outlines to ensure that the courses are aligned well with each other."
+1210576824930050,Spectrum X Consultation,2025-08-23T09:19:45.787Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Aug 23,"Summary
+    David Reed finished his draft of a solid Module 1 course map. We went over refinements such as a variety of assessments/activities and not just at the end of the module.
+    Tom Hazlett produced a solid module 1 outline and course description, but his objectives were off target.
+    Lawrence clarified the expectations of the course map—which is to be a ""glorified syllabus"" and does not require the content to be developed.
+
+
+Next steps
+    David will complete his Module 2 and 3 course map development, and then we'll go back and design a pattern for assessments and activities that he can follow throughout the course map.
+    David is looking to complete the outline and draft new objectives before we pivot to the course map."
+1210576824930050,Spectrum X Consultation,2025-08-17T17:58:04.519Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Aug 17,"Summary
+    David Reed (CU Boulder) completed his course description, objectives, and outline, and those were shared with the SX team.
+    We pivoted to work on the course map. David's course map will be fully detailed, but the content will not be fully developed by the 9/15 deadline. The goal will be to have at least a few lessons fully developed by then.
+
+    Tom Hazlett seems much more confident than Lawrence that he will have his course description, objectives, and outline completed by Wednesday. Once that's in, Tom will make the same pivot to the course map.
+
+    Lawrence updated Anja from SX on the status of the course development plans but has not heard back from her on any concerns.
+
+
+Next steps
+    Assuming that Anja/SX are comfortable with the plan for a fully detailed course map with a few lesson examples of the full content development for 9/15, we'll plow ahead with that goal."
+1210576824930050,Spectrum X Consultation,2025-08-07T19:30:19.536Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Aug 7,"Summary
+    Both of our faculty partners have draft course descriptions, learning objectives, and module topics drafted and should have their full outlines drafted this week and finalized next week.
+    Execution of the agreements has been bottlenecked on the ND end.
+    The overall director of Spectrum X is in the midst of being fired, which might actually speed things up in terms of our production.
+
+
+Next steps
+    Once the course outlines are completed, we'll get Nick and the other two professors together to review the outlines and address any issues or concerns regarding overlap.
+    We'll transition as soon as the outlines are done to the Course Map development."
+1210576824930050,Spectrum X Consultation,2025-08-01T19:47:44.038Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Aug 1,"Summary
+    Kuangchen gave a thumbs up to David Reed's course overview, goals, and outline topics.
+    Agreements are almost finalized with both partners.
+    Tom Hazlett was prepped to complete his course overview, goals, and outline topics.
+
+
+Next steps
+    David will be away at a conference this week but will have his draft outline completed for review early next week.
+    Tom will get feedback on his draft outline work this week and then also look to have his outline finalized by next week."
+1210576824930050,Spectrum X Consultation,2025-07-27T21:08:53.091Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Jul 27,"Summary
+    My update from last week seems to have disappeared?
+    We onboarded Tom Hazlett from Clemson who will do a course on Spectrum economics and economic policy.
+    We prepared Tom to draft a course description, goals, and module list.
+    David Reed (CU—course on Spectrum Management) drafted a course description, goals, and module list and revised them with Lawrence.
+    We drafted agreements between SX and David/Tom.
+
+
+Next steps
+    Review and revisions of David and Tom's materials (with assistance as appropriate from Kuangchen). Goal is to have the outlines completed by 8/8 and begin the course maps after that with the goal of finishing them by 9/23.
+    Get the agreements fully executed."
+1210576824930050,Spectrum X Consultation,2025-07-17T12:21:36.222Z,on_track,Lawrence Greenspun,Spectrum X Consultation - Jul 17,"Summary
+
+Next steps"
+1210576824930050,Spectrum X Consultation,2025-07-10T17:44:20.498Z,at_risk,Lawrence Greenspun,Spectrum X Consultation - Jul 10,"Summary
+    After two meetings to discuss, the consultation, Spectrum X leadership gave us the green light to work with Nick to recruit the faculty partners rather than working through Spectrum X leadership. This should speed up the process.
+
+    Targeted outreach to two specific potential partners happened at the end of last week.
+
+
+Next steps
+    If we hear back positively from our recruitment efforts, we will look to formalize the consultation and onboard the partners this week.
+    If we don't have the partners in place this week, we probably have another week of wiggle room on this but would likely have to pull the plug if those partners are not in place soon!"
+1210576824930050,Spectrum X Consultation,2025-07-04T14:04:57.940Z,at_risk,Lawrence Greenspun,Spectrum X Consultation - Jul 4,"Summary
+    While this potential consultation gig remains at risk, there are some positive developments:
+        Lawrence will be joining a call this afternoon with the Spectrum X Education and Workforce Development Working Group (EWG) to present an overview of our offer for project management support and to help spark interest in two external faculty members to work with us to produce course development materials.
+
+
+Next steps
+    The original deadline to begin this project was last Friday, but Nick said that he has a week or two of wiggle room on the backend of the timeline we laid out, so we're giving him a little wiggle room on the front end to close out recruitment of the two faculty members.
+    Hoping to have the faculty partners locked in place by this time next week so we can move this to ""On Target"" and get working on the consultation."
+1210576824930050,Spectrum X Consultation,2025-06-29T18:14:49.596Z,at_risk,Lawrence Greenspun,Spectrum X Consultation - Jun 29,"Summary
+    Nick received approval from the Spectrum X Education and Workforce Development Working Group to engage ODL for project management consultation services.
+    The LD Team is working on user-friendly version of the Course Outline and Course Map template to use with two external faculty partners.
+    Lawrence has drafted an MOU to cover the proposed consultation.
+
+
+Next steps
+    Nick needs to identify and introduce us two those two external faculty partners by Thursday for this consultation to move forward. Same goes for those faculty partners hitting various benchmarks throughout the process for things to continue."
+1210576824930050,Spectrum X Consultation,2025-06-21T21:51:51.089Z,at_risk,Lawrence Greenspun,Spectrum X Course Consultation - Jun 21,"Summary
+    Nick/Spectrum X is requesting ODL's assistance with managing the process of two external institutions/SME producing course outlines and content-filled course maps for two additional Radio Systems courses by 9/15.
+    The project is ""At Risk"" in the sense that it will not go forward unless Nick successfully recruits two colleagues that OLD approves by 7/3.
+
+
+Next steps
+    Nick will succeed or not succeed in recruiting partners, and the project will or will not proceed."
 1211080311286428,Diction App,2025-11-19T19:43:54.190Z,complete,Michael Lerma,Diction App - Nov 19,"Summary
 
 Next steps"

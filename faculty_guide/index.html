@@ -194,7 +194,6 @@
   <div id="types" class="grid types"></div>
 
   <div class="step-label">2 · How big is the scope?</div>
-  <div id="sizes" class="grid sizes"></div>
 
   <div class="infer">
     <div class="t">✨ Already have rough numbers in mind? Tell us what you're imagining and we'll size it
@@ -213,8 +212,10 @@
       <label class="chk"><input id="inf-xr" type="checkbox"> XR / immersive</label>
       <button class="btn gold" id="inf-go" type="button">Estimate my project →</button>
     </div>
-    <button class="skip" id="inf-skip" type="button">↑ Prefer to pick by type and size? Use the options above.</button>
+    <button class="skip" id="inf-skip" type="button">Prefer to pick by type and size yourself? Use the options above and the sizes below.</button>
   </div>
+
+  <div id="sizes" class="grid sizes"></div>
 
   <div id="hint" class="hint hidden"></div>
 
@@ -425,8 +426,8 @@
   // ---- "I don't know my numbers" → guide them to pick by description -------
   $("#inf-skip").onclick = function(){
     var h = $("#hint");
-    h.innerHTML = "No problem — you don't need exact counts. Read the options above and pick the project "+
-      "<strong>type</strong> and <strong>size</strong> that feel closest. You can fine-tune the details afterward, "+
+    h.innerHTML = "No problem — you don't need exact counts. Pick the project <strong>type</strong> above and the "+
+      "<strong>size</strong> below that feel closest. You can fine-tune the details afterward, "+
       "and ODL will confirm everything with you.";
     h.classList.remove("hidden");
     document.querySelector(".step-label").scrollIntoView({behavior:"smooth", block:"start"});

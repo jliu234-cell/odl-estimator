@@ -194,7 +194,6 @@
   <div id="types" class="grid types"></div>
 
   <div class="step-label">2 · How big is the scope?</div>
-  <div id="sizes" class="grid sizes"></div>
 
   <div class="infer">
     <div class="t">✨ Already have rough numbers in mind? Tell us what you're imagining and we'll size it
@@ -213,8 +212,10 @@
       <label class="chk"><input id="inf-xr" type="checkbox"> XR / immersive</label>
       <button class="btn gold" id="inf-go" type="button">Estimate my project →</button>
     </div>
-    <button class="skip" id="inf-skip" type="button">↑ Prefer to pick by type and size? Use the options above.</button>
+    <button class="skip" id="inf-skip" type="button">Prefer to pick by type and size yourself? Use the options above and the sizes below.</button>
   </div>
+
+  <div id="sizes" class="grid sizes"></div>
 
   <div id="hint" class="hint hidden"></div>
 
@@ -323,7 +324,7 @@
   // === BEGIN CALIBRATION (machine-generated — do not edit by hand) ==========
   var CALIBRATION =
   {
-    "provenance": "data_all/time_entries.csv (2,415 entries, 2202.6h, 2024-07-10..2026-07-09, ODL staff time) | 25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
+    "provenance": "data_all/time_entries.csv (3,326 entries, 2831.3h, 2024-07-10..2026-07-09, ODL staff time) | 25 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 21 of them with >=10h non-PM logging",
     "generated_from": "data_all/derived/calibration.json -- run inject_calibration.py to refresh",
     "archetypeEffort": {
       "course_redesign": {
@@ -482,11 +483,11 @@
     },
     "impactTracker": {
       "field": "cf::Impact Tracker Status",
-      "basis": "data_all/projects.csv Asana project custom field across 152 pulled projects",
-      "total_projects": 152,
+      "basis": "data_all/projects.csv Asana project custom field across 223 pulled projects",
+      "total_projects": 223,
       "tracked_projects": 32,
-      "blank_projects": 120,
-      "coverage_pct": 21.1,
+      "blank_projects": 191,
+      "coverage_pct": 14.3,
       "status_counts": {
         "Up to date": 21,
         "Outdated": 11
@@ -687,7 +688,7 @@
       },
       "records_with_assets": 31,
       "records_with_satisfaction": 24,
-      "matched_records": 49,
+      "matched_records": 50,
       "outcomes": {
         "faculty_satisfaction_index": {
           "n": 24,
@@ -791,8 +792,8 @@
         "2025": 5815.0
       },
       "hours_crosscheck": {
-        "n": 17,
-        "median_ratio_logged_over_reported": 0.35,
+        "n": 18,
+        "median_ratio_logged_over_reported": 0.38,
         "rows": [
           {
             "project": "3D Environments Summer Online",
@@ -865,6 +866,13 @@
             "ratio_logged_over_reported": 0.33
           },
           {
+            "project": "Force for Good Video Project",
+            "project_gid": "1211154824956969",
+            "tracker_reported_hours": 105.5,
+            "asana_logged_hours": 45.1,
+            "ratio_logged_over_reported": 0.43
+          },
+          {
             "project": "I CAN HELP Learning Modules",
             "project_gid": "1211900373500710",
             "tracker_reported_hours": 17.0,
@@ -907,11 +915,11 @@
             "ratio_logged_over_reported": 0.3
           },
           {
-            "project": "Virtual Borders",
-            "project_gid": "1208335647365619",
-            "tracker_reported_hours": 120.0,
-            "asana_logged_hours": 110.5,
-            "ratio_logged_over_reported": 0.92
+            "project": "Veterans College Math Readiness Course",
+            "project_gid": "1211385006360353",
+            "tracker_reported_hours": 66.0,
+            "asana_logged_hours": 108.8,
+            "ratio_logged_over_reported": 1.65
           }
         ],
         "basis": "Tracker 'Total Hours' field vs hours actually logged in Asana time entries for the same project (matched by GID or unique normalized name)."
@@ -963,8 +971,8 @@
     },
     "notCalibratable": {
       "faculty_time": "time_entries contains ODL STAFF time only -- zero faculty hours logged. All faculty-time figures remain planning estimates and must be labeled as such.",
-      "discovery_effort": "only 12.0h logged across all projects -- discovery happens before boards get tracked. Insufficient.",
-      "evaluation_effort": "only 2.5h logged total. Insufficient.",
+      "discovery_effort": "only 19.1h logged across all projects -- discovery happens before boards get tracked. Insufficient.",
+      "evaluation_effort": "only 29.3h logged total. Insufficient.",
       "qa_effort": "only 1.7h logged total. Insufficient.",
       "interview_minidoc_video_rates": "no full-coverage logged exemplar (see video block).",
       "xr_effort": "XR projects in data have <=6h logged (Equity XR 6h, XR Spanish 1h) -- board rates (40-80h) stand, unvalidated.",
@@ -1598,8 +1606,8 @@
   // ---- "I don't know my numbers" → guide them to pick by description -------
   $("#inf-skip").onclick = function(){
     var h = $("#hint");
-    h.innerHTML = "No problem — you don't need exact counts. Read the options above and pick the project "+
-      "<strong>type</strong> and <strong>size</strong> that feel closest. You can fine-tune the details afterward, "+
+    h.innerHTML = "No problem — you don't need exact counts. Pick the project <strong>type</strong> above and the "+
+      "<strong>size</strong> below that feel closest. You can fine-tune the details afterward, "+
       "and ODL will confirm everything with you.";
     h.classList.remove("hidden");
     document.querySelector(".step-label").scrollIntoView({behavior:"smooth", block:"start"});
