@@ -4,7 +4,7 @@ projects pulled        : 152
 tasks pulled           : 3922
 phase rows             : 627
 distinct sections      : 227
-project custom fields  : 48 distinct names (1238 values)
+project custom fields  : 48 distinct names (1736 values)
 task custom fields     : 152 distinct names (21199 values)
 time-tracking endpoint : AVAILABLE
 projects with logged hours : 59
