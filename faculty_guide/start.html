@@ -191,19 +191,21 @@
       <div class="ey">Your time commitment</div>
       <div class="hd">A few hours a week.</div>
       <div class="sub">ODL's team takes on the heavy lifting: design, filming, editing, and project management. You focus on the ideas and expertise, and stay as hands-on as you'd like. In a typical week that looks like:</div>
-      <div class="tiers">
-        <button class="tier" data-size="course" type="button">
-          <div class="v">4&ndash;6 <span>hrs / week</span></div>
-          <div class="k">For a full online or blended <b>course</b></div>
-          <div class="tier-cta">See ODL's week-by-week timeline <span class="caret">▾</span></div>
-        </button>
-        <button class="tier" data-size="small" type="button">
-          <div class="v">2&ndash;4 <span>hrs / week</span></div>
-          <div class="k">For a single <b>module</b>, or a focused <b>AI</b> or <b>immersive</b> project</div>
-          <div class="tier-cta">See ODL's week-by-week timeline <span class="caret">▾</span></div>
-        </button>
+      <div class="tiers-wrap" id="tiersWrap">
+        <div class="tiers">
+          <button class="tier" data-size="course" type="button">
+            <div class="v">4&ndash;6 <span>hrs / week</span></div>
+            <div class="k">For a full online or blended <b>course</b></div>
+            <div class="tier-cta">Hover for ODL's week-by-week timeline <span class="caret">▾</span></div>
+          </button>
+          <button class="tier" data-size="small" type="button">
+            <div class="v">2&ndash;4 <span>hrs / week</span></div>
+            <div class="k">For a single <b>module</b>, or a focused <b>AI</b> or <b>immersive</b> project</div>
+            <div class="tier-cta">Hover for ODL's week-by-week timeline <span class="caret">▾</span></div>
+          </button>
+        </div>
+        <div class="tl-panel" id="tlPanel" aria-live="polite"></div>
       </div>
-      <div class="tl-panel" id="tlPanel" aria-live="polite"></div>
       <p class="fine">Some weeks are heavier (filming and reviewing your videos take a bit more), and many weeks are lighter. Work spreads comfortably across the project, which usually runs over <b>a semester or two</b> for a course, or <b>a few weeks to a couple of months</b> for a smaller piece. These are ODL's planning estimates; we'll pin down the real numbers for <em>your</em> project together.</p>
     </div>
 
@@ -393,6 +395,7 @@
   };
   var tierBtns = document.querySelectorAll('.tier');
   var tlPanel = document.getElementById('tlPanel');
+  var tierWrap = document.getElementById('tiersWrap');
   var tlOpen = null;
   function renderTl(size){
     var r = RECAP[size];
@@ -409,19 +412,27 @@
       + '<p class="note">Below is roughly how many weeks ODL spends on each phase. We do the building; the hours above are the hands-on time we need from you.</p></div>'
       + '<div class="tl-flow">' + steps + '</div></div>';
   }
+  function showTl(size){
+    if (tlOpen !== size){ tlOpen = size; renderTl(size); }
+    tierBtns.forEach(function(x){ x.classList.toggle('on', x.getAttribute('data-size') === size); });
+    tlPanel.classList.add('show');
+  }
+  function hideTl(){
+    tlOpen = null;
+    tlPanel.classList.remove('show');
+    tierBtns.forEach(function(x){ x.classList.remove('on'); });
+  }
+  // Reveal on hover (and keyboard focus). Hide only when the pointer/focus leaves
+  // the WHOLE tiers+panel region, so moving from a box down into the timeline keeps
+  // it open; leaving the area drops it.
   tierBtns.forEach(function(t){
-    t.addEventListener('click', function(){
-      var size = t.getAttribute('data-size');
-      if (tlOpen === size){
-        tlPanel.classList.remove('show'); tlOpen = null;
-        tierBtns.forEach(function(x){ x.classList.remove('on'); });
-        return;
-      }
-      tlOpen = size;
-      tierBtns.forEach(function(x){ x.classList.toggle('on', x === t); });
-      renderTl(size);
-      tlPanel.classList.add('show');
-    });
+    var size = t.getAttribute('data-size');
+    t.addEventListener('mouseenter', function(){ showTl(size); });
+    t.addEventListener('focus', function(){ showTl(size); });
+  });
+  tierWrap.addEventListener('mouseleave', hideTl);
+  tierWrap.addEventListener('focusout', function(e){
+    if (!tierWrap.contains(e.relatedTarget)) hideTl();
   });
 
   // project filter
