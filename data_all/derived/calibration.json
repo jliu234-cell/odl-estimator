@@ -1,8 +1,8 @@
 {
   "_provenance": {
-    "source": "data_all/time_entries.csv (3,386 entries, 2986.8h, 2024-07-10..2026-10-26, ODL staff time)",
+    "source": "data_all/time_entries.csv (3,388 entries, 2988.3h, 2024-07-10..2026-10-29, ODL staff time)",
     "calibration_set": "22 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 18 of them with >=10h non-PM logging",
-    "phase_mapping": "ordered keyword rules on section, task-name fallback for uninformative sections; basis counts: {'section': 3068, 'task_name': 127, 'none': 191}",
+    "phase_mapping": "ordered keyword rules on section, task-name fallback for uninformative sections; basis counts: {'section': 3070, 'task_name': 127, 'none': 191}",
     "no_guessing": "blocks state 'not_calibratable' where data is insufficient"
   },
   "archetype_effort_hours": {
