@@ -292,7 +292,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1209419538333955,Insect Podcast Consult,Post-Project Evaluation,4,0,1,,,,0.0,0.0,0,0,0,0.25
 1209419538333955,Insect Podcast Consult,Pre-Production,5,0,1,,,,0.0,0.0,0,0,0,0.2
 1209419538333955,Insect Podcast Consult,Production,2,2,1,2025-03-27T16:21:00.189000+00:00,2025-03-27T16:21:00.816000+00:00,0,0.0,0.0,0,0,0,0.5
-1215186457850692,Intern/Student Worker Supervising,Media Timetracking,8,0,0,,,,135.0,2.25,0,0,0,0.12
+1215186457850692,Intern/Student Worker Supervising,Media Timetracking,8,0,0,,,,255.0,4.25,0,0,0,0.12
 1212660246856608,Jim Lang Coursera Course,Analysis,3,1,1,2026-01-25T23:19:56.321000+00:00,2026-01-25T23:19:56.321000+00:00,0,0.0,0.0,0,0,0,0.33
 1212660246856608,Jim Lang Coursera Course,Design,10,0,3,,,,0.0,0.0,0,0,0,0.1
 1212660246856608,Jim Lang Coursera Course,Design Development,5,0,2,,,,0.0,0.0,0,0,0,0.2
@@ -383,7 +383,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1207871566050072,NDL Project Tracking & Awareness,Create project - LAITL,8,8,1,2025-08-25T15:28:39.393000+00:00,2026-03-19T13:23:03.603000+00:00,206,0.0,0.0,0,0,0,0.12
 1207871566050072,NDL Project Tracking & Awareness,On Hold,3,0,1,,,,0.0,0.0,0,0,0,0.33
 1207871566050072,NDL Project Tracking & Awareness,Reached out - No response,2,2,1,2025-09-15T18:28:25.518000+00:00,2025-09-16T18:37:55.991000+00:00,1,0.0,0.0,0,0,0,0.5
-1207871566050072,NDL Project Tracking & Awareness,Received Requests - Triage Needed,2,1,2,2026-10-14T17:36:37.926000+00:00,2026-10-14T17:36:37.926000+00:00,0,0.0,0.0,0,0,0,0.5
+1207871566050072,NDL Project Tracking & Awareness,Received Requests - Triage Needed,3,1,2,2026-10-14T17:36:37.926000+00:00,2026-10-14T17:36:37.926000+00:00,0,0.0,0.0,0,0,0,0.33
 1207871566050072,NDL Project Tracking & Awareness,Resolved,8,8,2,2025-09-04T19:21:27.764000+00:00,2026-09-04T14:34:59.131000+00:00,365,0.0,0.0,0,0,0,0.12
 1207871566050072,NDL Project Tracking & Awareness,Under Review by Unit,5,0,1,,,,0.0,0.0,0,0,0,0.2
 1213292120696339,NEON - POLS 30022 (Poly Sci),Analysis,3,0,1,,,,0.0,0.0,0,0,0,0.33
@@ -413,7 +413,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1213551317973102,ODL Media Studio Sessions,Incoming Requests,2,0,0,,,,0.0,0.0,0,0,0,0.5
 1213551317973102,ODL Media Studio Sessions,Survey Response,3,0,0,,,,0.0,0.0,0,0,0,0.33
 1208255134985064,ODL Podcast,Launch,10,10,1,2024-09-19T13:17:44.154000+00:00,2024-11-01T15:49:05.104000+00:00,43,0.0,0.0,0,0,0,0.1
-1208255134985064,ODL Podcast,Media Timetracking (Matthew),12,0,1,,,,435.0,7.25,0,0,0,0.08
+1208255134985064,ODL Podcast,Media Timetracking (Matthew),16,0,1,,,,555.0,9.25,0,0,0,0.06
 1208255134985064,ODL Podcast,Need to Book,2,0,0,,,,65.0,1.08,16,0,0,0.5
 1208255134985064,ODL Podcast,Released,15,15,2,2025-01-09T15:56:29.710000+00:00,2026-05-04T15:05:14.625000+00:00,480,950.0,15.83,121,0,0,0.07
 1208740211406775,ODL Project Estimations,Animation & Graphic Design,11,0,0,,,,0.0,0.0,0,0,0,0.09
@@ -711,7 +711,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1212638027964018,Ultrasound Communication Video,Analysis,3,0,0,,,,0.0,0.0,0,0,0,0.33
 1212638027964018,Ultrasound Communication Video,Design,9,1,0,2026-04-30T14:25:03.308000+00:00,2026-04-30T14:25:03.308000+00:00,0,270.0,4.5,0,0,0,0.11
 1212638027964018,Ultrasound Communication Video,Design Development,4,0,0,,,,0.0,0.0,0,0,0,0.25
-1212638027964018,Ultrasound Communication Video,Media Timetracking,31,0,1,,,,4215.0,70.25,0,0,0,0.03
+1212638027964018,Ultrasound Communication Video,Media Timetracking,35,0,1,,,,4290.0,71.5,0,0,0,0.03
 1212638027964018,Ultrasound Communication Video,Post-Production,9,0,0,,,,0.0,0.0,0,0,0,0.11
 1212638027964018,Ultrasound Communication Video,Post-Project Evaluation,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1212638027964018,Ultrasound Communication Video,Pre-Production,7,1,0,2026-06-01T14:45:52.878000+00:00,2026-06-01T14:45:52.878000+00:00,0,30.0,0.5,0,0,0,0.14

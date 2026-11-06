@@ -38,7 +38,7 @@
   // === BEGIN CALIBRATION (machine-generated — do not edit by hand) ==========
   var CALIBRATION =
   {
-    "provenance": "data_all/time_entries.csv (3,388 entries, 2988.3h, 2024-07-10..2026-10-29, ODL staff time) | 22 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 18 of them with >=10h non-PM logging",
+    "provenance": "data_all/time_entries.csv (3,396 entries, 2993.5h, 2024-07-10..2026-11-06, ODL staff time) | 22 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 18 of them with >=10h non-PM logging",
     "generated_from": "data_all/derived/calibration.json -- run inject_calibration.py to refresh",
     "archetypeEffort": {
       "course_redesign": {
@@ -64,7 +64,7 @@
         "values": [
           12.0,
           15.5,
-          75.2
+          76.5
         ],
         "p50": 15.5,
         "note": "n<4 -- raw values shown; interpolated quartiles withheld"
@@ -104,8 +104,8 @@
         "p25": 12.0,
         "p50": 13.7,
         "p75": 15.5,
-        "p80": 27.4,
-        "max": 75.2
+        "p80": 27.7,
+        "max": 76.5
       },
       "blendedGenericP50": 11.8,
       "shrinkageW": 0.62
@@ -528,10 +528,11 @@
         }
       },
       "tracker_status_counts": {
-        "Complete": 129,
+        "Complete": 128,
         "No Documentation": 34,
         "In Progress": 23,
-        "On Hold": 5
+        "On Hold": 5,
+        "New Project": 2
       },
       "assets_produced_total": 359.0,
       "asset_field_totals": {
