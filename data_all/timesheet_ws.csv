@@ -5428,13 +5428,19 @@ project_gid,project_name,task_gid,task_name,section,canonical_phase,assignee,res
 ,,,,,,,,Annie Conaghan,2026-10-30,150,2.5
 ,,,,,,,,Annie Conaghan,2026-10-30,60,1.0
 ,,,,,,,,Brianna Stines,2026-11-02,60,1.0
+,,,,,,,,Annie Conaghan,2026-11-02,90,1.5
+,,,,,,,,Kevin DeCloedt,2026-11-02,120,2.0
+,,,,,,,,Kevin DeCloedt,2026-11-02,150,2.5
 ,,,,,,,,Julia Leopard,2026-11-03,210,3.5
 ,,,,,,,,Brianna Stines,2026-11-03,30,0.5
 ,,,,,,,,Matthew Simmons,2026-11-03,120,2.0
+,,,,,,,,Annie Conaghan,2026-11-03,30,0.5
+,,,,,,,,Kevin DeCloedt,2026-11-03,60,1.0
 ,,,,,,,,Brianna Stines,2026-11-04,60,1.0
 ,,,,,,,,Brianna Stines,2026-11-04,30,0.5
 ,,,,,,,,Julia Leopard,2026-11-04,30,0.5
 1212638027964018,Ultrasound Communication Video,1220301281663153,11/2 - 11/6,,,,,Matthew Simmons,2026-11-04,30,0.5
+,,,,,,,,Annie Conaghan,2026-11-04,60,1.0
 ,,,,,,,,Brianna Stines,2026-11-05,60,1.0
 ,,,,,,,,Brianna Stines,2026-11-05,30,0.5
 ,,,,,,,,Brianna Stines,2026-11-05,60,1.0
@@ -5446,6 +5452,9 @@ project_gid,project_name,task_gid,task_name,section,canonical_phase,assignee,res
 1215186457850692,Intern/Student Worker Supervising,1219779218669596,Week of 11/2,,,,,Matthew Simmons,2026-11-05,45,0.75
 1215186457850692,Intern/Student Worker Supervising,1219779218669596,Week of 11/2,,,,,Matthew Simmons,2026-11-05,30,0.5
 ,,,,,,,,Julia Leopard,2026-11-05,30,0.5
+,,,,,,,,Annie Conaghan,2026-11-05,120,2.0
+,,,,,,,,Annie Conaghan,2026-11-05,90,1.5
+,,,,,,,,Kevin DeCloedt,2026-11-05,60,1.0
 ,,,,,,,,Brianna Stines,2026-11-06,60,1.0
 ,,,,,,,,Brianna Stines,2026-11-06,15,0.25
 ,,,,,,,,Brianna Stines,2026-11-06,30,0.5
@@ -5453,4 +5462,12 @@ project_gid,project_name,task_gid,task_name,section,canonical_phase,assignee,res
 1212638027964018,Ultrasound Communication Video,1220301281663153,11/2 - 11/6,,,,,Matthew Simmons,2026-11-06,45,0.75
 ,,,,,,,,Matthew Simmons,2026-11-06,120,2.0
 ,,,,,,,,Julia Leopard,2026-11-06,120,2.0
+,,,,,,,,Annie Conaghan,2026-11-06,90,1.5
+,,,,,,,,Annie Conaghan,2026-11-06,60,1.0
+,,,,,,,,Annie Conaghan,2026-11-06,30,0.5
+,,,,,,,,Annie Conaghan,2026-11-06,30,0.5
+,,,,,,,,Annie Conaghan,2026-11-06,30,0.5
+,,,,,,,,Kevin DeCloedt,2026-11-06,60,1.0
+,,,,,,,,Kevin DeCloedt,2026-11-06,75,1.25
 ,,,,,,,,Julia Leopard,2026-11-07,60,1.0
+,,,,,,,,Julia Leopard,2026-11-09,105,1.75
