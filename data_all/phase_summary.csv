@@ -292,7 +292,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1209419538333955,Insect Podcast Consult,Post-Project Evaluation,4,0,1,,,,0.0,0.0,0,0,0,0.25
 1209419538333955,Insect Podcast Consult,Pre-Production,5,0,1,,,,0.0,0.0,0,0,0,0.2
 1209419538333955,Insect Podcast Consult,Production,2,2,1,2025-03-27T16:21:00.189000+00:00,2025-03-27T16:21:00.816000+00:00,0,0.0,0.0,0,0,0,0.5
-1215186457850692,Intern/Student Worker Supervising,Media Timetracking,8,0,0,,,,255.0,4.25,0,0,0,0.12
+1215186457850692,Intern/Student Worker Supervising,Media Timetracking,8,0,0,,,,330.0,5.5,0,0,0,0.12
 1212660246856608,Jim Lang Coursera Course,Analysis,3,1,1,2026-01-25T23:19:56.321000+00:00,2026-01-25T23:19:56.321000+00:00,0,0.0,0.0,0,0,0,0.33
 1212660246856608,Jim Lang Coursera Course,Design,10,0,3,,,,0.0,0.0,0,0,0,0.1
 1212660246856608,Jim Lang Coursera Course,Design Development,5,0,2,,,,0.0,0.0,0,0,0,0.2
@@ -711,7 +711,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1212638027964018,Ultrasound Communication Video,Analysis,3,0,0,,,,0.0,0.0,0,0,0,0.33
 1212638027964018,Ultrasound Communication Video,Design,9,1,0,2026-04-30T14:25:03.308000+00:00,2026-04-30T14:25:03.308000+00:00,0,270.0,4.5,0,0,0,0.11
 1212638027964018,Ultrasound Communication Video,Design Development,4,0,0,,,,0.0,0.0,0,0,0,0.25
-1212638027964018,Ultrasound Communication Video,Media Timetracking,35,0,1,,,,4290.0,71.5,0,0,0,0.03
+1212638027964018,Ultrasound Communication Video,Media Timetracking,35,0,1,,,,4440.0,74.0,0,0,0,0.03
 1212638027964018,Ultrasound Communication Video,Post-Production,9,0,0,,,,0.0,0.0,0,0,0,0.11
 1212638027964018,Ultrasound Communication Video,Post-Project Evaluation,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1212638027964018,Ultrasound Communication Video,Pre-Production,7,1,0,2026-06-01T14:45:52.878000+00:00,2026-06-01T14:45:52.878000+00:00,0,30.0,0.5,0,0,0,0.14
