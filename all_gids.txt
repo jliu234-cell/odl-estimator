@@ -186,6 +186,7 @@
 1218384372969057  # I-Lab Portal
 1218406245983939  # Kate the Chemist
 1218524434604030  # FCTA Writing and Rhetoric
+1219042991092233  # FA27 | Condon \\ Baseball
 1219455486433710  # Workshops, Conferences and Consultations
 1219515748522688  # Faculty Idea Exchange: AI-Aware Teaching Practices or Faculty
 1219695752745866  # Reimagined Class Time - Joe / Xiaojing - Foundations of Coding for Data and AI
