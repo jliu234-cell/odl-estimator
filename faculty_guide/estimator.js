@@ -38,7 +38,7 @@
   // === BEGIN CALIBRATION (machine-generated — do not edit by hand) ==========
   var CALIBRATION =
   {
-    "provenance": "data_all/time_entries.csv (3,398 entries, 2997.3h, 2024-07-10..2026-11-09, ODL staff time) | 22 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 18 of them with >=10h non-PM logging",
+    "provenance": "data_all/time_entries.csv (3,402 entries, 3004.0h, 2024-07-10..2026-11-12, ODL staff time) | 22 full-coverage course-dev projects >=10h (derived/ground_truth.csv); production rates from the 18 of them with >=10h non-PM logging",
     "generated_from": "data_all/derived/calibration.json -- run inject_calibration.py to refresh",
     "archetypeEffort": {
       "course_redesign": {
@@ -64,7 +64,7 @@
         "values": [
           12.0,
           15.5,
-          79.0
+          84.5
         ],
         "p50": 15.5,
         "note": "n<4 -- raw values shown; interpolated quartiles withheld"
@@ -104,8 +104,8 @@
         "p25": 12.0,
         "p50": 13.7,
         "p75": 15.5,
-        "p80": 28.2,
-        "max": 79.0
+        "p80": 29.3,
+        "max": 84.5
       },
       "blendedGenericP50": 11.8,
       "shrinkageW": 0.62
