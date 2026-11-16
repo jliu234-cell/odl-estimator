@@ -402,7 +402,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1211654114707733,ND-IBM Tech Ethics Lab Video Content Development,Production,3,0,0,,,,0.0,0.0,0,0,0,0.33
 1211654114707733,ND-IBM Tech Ethics Lab Video Content Development,Untitled section,4,3,4,2025-10-06T16:46:25.210000+00:00,2025-10-14T17:23:16.591000+00:00,8,0.0,0.0,0,0,0,0.25
 1207760971753720,NDIAS Teaching Fellows - Global Catholicism,Untitled section,1,1,0,2025-02-03T14:28:43.527000+00:00,2025-02-03T14:28:43.527000+00:00,0,0.0,0.0,0,0,0,1.0
-1207871566050072,NDL Project Tracking & Awareness,Consultations,24,20,3,2025-08-07T19:52:06.546000+00:00,2026-11-13T15:25:15.085000+00:00,463,0.0,0.0,0,0,0,0.04
+1207871566050072,NDL Project Tracking & Awareness,Consultations,24,23,3,2025-08-07T19:52:06.546000+00:00,2026-11-16T16:19:38.980000+00:00,466,0.0,0.0,0,0,0,0.04
 1207871566050072,NDL Project Tracking & Awareness,Create Project - Fast Tracked,1,1,1,2025-08-16T19:40:18.715000+00:00,2025-08-16T19:40:18.715000+00:00,0,0.0,0.0,0,0,0,1.0
 1207871566050072,NDL Project Tracking & Awareness,Create Project - Kaneb Center,1,1,1,2025-08-06T15:26:19.092000+00:00,2025-08-06T15:26:19.092000+00:00,0,0.0,0.0,0,0,0,1.0
 1207871566050072,NDL Project Tracking & Awareness,Create project - LAITL,8,8,1,2025-08-25T15:28:39.393000+00:00,2026-03-19T13:23:03.603000+00:00,206,0.0,0.0,0,0,0,0.12
@@ -432,7 +432,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1209100108497907,ODL Intake,Incoming Projects from Work With Us,18,15,2,2025-07-30T19:33:25.009000+00:00,2026-10-14T17:36:37.926000+00:00,441,0.0,0.0,0,0,0,0.06
 1209100108497907,ODL Intake,Project Created,2,2,0,2025-02-24T19:09:00.047000+00:00,2025-02-24T20:49:45.149000+00:00,0,0.0,0.0,0,0,0,0.5
 1209100108497907,ODL Intake,Reject,2,0,1,,,,0.0,0.0,0,0,0,0.5
-1218012805723892,ODL Internal Canvas Site,Media Timetracking,2,0,0,,,,0.0,0.0,0,0,0,0.5
+1218012805723892,ODL Internal Canvas Site,Media Timetracking,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1208659811898324,ODL Lookbook,Untitled section,4,4,1,2024-11-15T15:30:13.009000+00:00,2025-05-15T14:43:08.312000+00:00,181,1337.0,22.28,0,0,0,0.25
 1213551317973102,ODL Media Studio Sessions,Completed,1,0,0,,,,0.0,0.0,0,0,0,1.0
 1213551317973102,ODL Media Studio Sessions,Incoming Requests,2,0,0,,,,0.0,0.0,0,0,0,0.5
