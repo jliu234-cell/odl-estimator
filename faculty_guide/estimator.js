@@ -197,11 +197,11 @@
     },
     "impactTracker": {
       "field": "cf::Impact Tracker Status",
-      "basis": "data_all/projects.csv Asana project custom field across 258 pulled projects",
-      "total_projects": 258,
+      "basis": "data_all/projects.csv Asana project custom field across 261 pulled projects",
+      "total_projects": 261,
       "tracked_projects": 33,
-      "blank_projects": 225,
-      "coverage_pct": 12.8,
+      "blank_projects": 228,
+      "coverage_pct": 12.6,
       "status_counts": {
         "Outdated": 19,
         "Up to date": 14

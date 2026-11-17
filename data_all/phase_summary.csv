@@ -665,6 +665,11 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1207472349552365,Sprint: Parent Empowerment (Boothby),Animation,3,3,1,2024-11-06T21:10:09.512000+00:00,2024-11-06T21:11:15.129000+00:00,0,0.0,0.0,21,0,0,0.33
 1207472349552365,Sprint: Parent Empowerment (Boothby),Design,9,9,6,2024-06-03T15:33:50.425000+00:00,2024-11-06T21:10:25.809000+00:00,156,0.0,0.0,3,0,0,0.11
 1207472349552365,Sprint: Parent Empowerment (Boothby),Pre-Production,2,2,1,2024-07-15T14:17:03.946000+00:00,2024-08-01T15:36:48.757000+00:00,17,0.0,0.0,3,0,0,0.5
+1220615225505272,St. Bahkitas Video Project,Analysis,8,0,1,,,,0.0,0.0,0,0,0,0.12
+1220615225505272,St. Bahkitas Video Project,Post-Production,3,0,1,,,,0.0,0.0,0,0,0,0.33
+1220615225505272,St. Bahkitas Video Project,Post-Project Evaluation,4,0,1,,,,0.0,0.0,0,0,0,0.25
+1220615225505272,St. Bahkitas Video Project,Pre-Production,6,0,1,,,,0.0,0.0,0,0,0,0.17
+1220615225505272,St. Bahkitas Video Project,Production,3,0,1,,,,0.0,0.0,0,0,0,0.33
 1207778717570958,Standard Project Template,Animation/Graphics,2,0,0,,,,0.0,0.0,0,0,0,0.5
 1207778717570958,Standard Project Template,Design,7,0,0,,,,0.0,0.0,0,0,0,0.14
 1207778717570958,Standard Project Template,Development,3,0,0,,,,0.0,0.0,0,0,0,0.33
