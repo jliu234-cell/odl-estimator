@@ -177,14 +177,6 @@
     },
     "pm_share_where_both_logged": [
       {
-        "project": "Responsible and Ethical AI",
-        "pm_share_pct": 64.5
-      },
-      {
-        "project": "AI for the Notre Dame Community",
-        "pm_share_pct": 36.1
-      },
-      {
         "project": "ASCEND MCOB",
         "pm_share_pct": 13.7
       },
@@ -193,12 +185,20 @@
         "pm_share_pct": 37.4
       },
       {
+        "project": "Responsible and Ethical AI",
+        "pm_share_pct": 64.5
+      },
+      {
         "project": "Radio Systems MVP",
         "pm_share_pct": 14.7
       },
       {
         "project": "ASCEND Engineering",
         "pm_share_pct": 73.3
+      },
+      {
+        "project": "AI for the Notre Dame Community",
+        "pm_share_pct": 36.1
       },
       {
         "project": "Sprint 2025: Lab Prep: Visualizing Success",
@@ -497,10 +497,10 @@
   },
   "impact_tracker": {
     "field": "cf::Impact Tracker Status",
-    "basis": "data_all/projects.csv Asana project custom field across 261 pulled projects",
-    "total_projects": 261,
+    "basis": "data_all/projects.csv Asana project custom field across 262 pulled projects",
+    "total_projects": 262,
     "tracked_projects": 33,
-    "blank_projects": 228,
+    "blank_projects": 229,
     "coverage_pct": 12.6,
     "status_counts": {
       "Outdated": 19,
@@ -509,18 +509,38 @@
     "up_to_date_pct_of_tracked": 42.4,
     "outdated_projects": [
       {
-        "project_gid": "1207760971753716",
-        "project": "FCTA - Physics I",
-        "status": "Outdated"
-      },
-      {
         "project_gid": "1207942229848224",
         "project": "National Education Opportunities Network (NEON)",
         "status": "Outdated"
       },
       {
+        "project_gid": "1212660352662527",
+        "project": "Romance Languages video/podcast initiative",
+        "status": "Outdated"
+      },
+      {
+        "project_gid": "1213551317973102",
+        "project": "ODL Media Studio Sessions",
+        "status": "Outdated"
+      },
+      {
+        "project_gid": "1214795652576790",
+        "project": "Maximizing Mendoza",
+        "status": "Outdated"
+      },
+      {
+        "project_gid": "1207760971753716",
+        "project": "FCTA - Physics I",
+        "status": "Outdated"
+      },
+      {
         "project_gid": "1208963580488220",
         "project": "Responsible and Ethical AI",
+        "status": "Outdated"
+      },
+      {
+        "project_gid": "1209213189516073",
+        "project": "ASCEND Engineering",
         "status": "Outdated"
       },
       {
@@ -569,18 +589,8 @@
         "status": "Outdated"
       },
       {
-        "project_gid": "1212660352662527",
-        "project": "Romance Languages video/podcast initiative",
-        "status": "Outdated"
-      },
-      {
         "project_gid": "1213393701257435",
         "project": "Digital Accessibility",
-        "status": "Outdated"
-      },
-      {
-        "project_gid": "1213551317973102",
-        "project": "ODL Media Studio Sessions",
         "status": "Outdated"
       },
       {
@@ -589,18 +599,8 @@
         "status": "Outdated"
       },
       {
-        "project_gid": "1214795652576790",
-        "project": "Maximizing Mendoza",
-        "status": "Outdated"
-      },
-      {
         "project_gid": "1215646180453827",
         "project": "CAD 2026 - Stephen Blackburn Videos",
-        "status": "Outdated"
-      },
-      {
-        "project_gid": "1209213189516073",
-        "project": "ASCEND Engineering",
         "status": "Outdated"
       }
     ]
@@ -609,7 +609,7 @@
     "available": true,
     "source": "data_all/task_custom_fields.csv",
     "metric_scope": "Impact Tracker board tasks only",
-    "value_count": 8502,
+    "value_count": 8541,
     "field_count": 39,
     "all_fields": [
       "Academic Department",
@@ -652,7 +652,7 @@
       "Web Page Modules",
       "XR experiences"
     ],
-    "record_count": 218,
+    "record_count": 219,
     "detected_asset_fields": [
       "Canvas Courses",
       "Graphics",
@@ -694,7 +694,7 @@
         "max": 1.0
       },
       "Total Assets": {
-        "n": 218,
+        "n": 219,
         "min": 0.0,
         "p25": 0.0,
         "p50": 0.0,
@@ -743,7 +743,7 @@
     },
     "records_with_assets": 32,
     "records_with_satisfaction": 24,
-    "matched_records": 123,
+    "matched_records": 124,
     "outcomes": {
       "faculty_satisfaction_index": {
         "n": 24,
@@ -831,8 +831,8 @@
       "Complete": 129,
       "No Documentation": 34,
       "In Progress": 22,
-      "On Hold": 5,
-      "New Project": 4
+      "New Project": 5,
+      "On Hold": 5
     },
     "assets_produced_total": 359.0,
     "asset_field_totals": {

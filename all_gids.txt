@@ -11,7 +11,6 @@
 1207728646026750  # Implicit Bias
 1207760971753697  # Test
 1207760971753709  # Dengue Awareness
-1207760971753716  # FCTA - Physics I
 1207760971753758  # Consultations
 1207778717570958  # Standard Project Template
 1207816481565083  # Gen Chem Intro Video
@@ -45,7 +44,6 @@
 1208255134985033  # AR Math Visualizer (Summer 2026 Pilot)
 1208255134985064  # ODL Podcast
 1208335646825701  # Michael's PM Tasks
-1208335647365619  # Virtual Borders
 1208335647365682  # Test
 1208337788268913  # Preparation/Performance Analytics for FCTA Physics
 1208337788268930  # Boosting Gen Chem & Intro to Engineering
@@ -57,7 +55,6 @@
 1208712699269092  # FINS (Research Video)
 1208740211406775  # ODL Project Estimations
 1208932698980144  # PM Board
-1208963580488220  # Responsible and Ethical AI
 1209018174328538  # ACE Assessment Modules Asset Spreadsheet
 1209092823113258  # Test 14
 1209100108497907  # ODL Intake
@@ -69,11 +66,8 @@
 1209140307416568  # Detailed Time Tracking
 1209243150458147  # Template - Media Only Project (Updated Jan 2025)
 1209254874093285  # Colin's Projects
-1209298164735103  # AI for the Notre Dame Community
 1209298165345682  # PM Projects
-1209417474929053  # Business on the Frontlines XR
 1209484413612062  # ECG Videos
-1209679644127773  # Radio Systems Course
 1209741238247552  # Political Science SO Course
 1209803738475381  # Multimedia Writing and Rhetoric
 1209877145593345  # AI Assisted Rubric Scoring
@@ -99,51 +93,34 @@
 1210951195644528  # LD Projects
 1210971259338451  # TEST - Fast Track LAITL
 1210988557115684  # Fall 2025 Faculty AI in Teaching and Learning Needs Assessment
-1211134268245785  # ACE Higher Powered Learning (HPL)
 1211140968261021  # Evaluating Generative AI as a Critical Thinking Tutor in God and the Good Life
-1211154824956969  # Force for Good Video Project
 1211213483317129  # AI Faculty and Student Summit
-1211360177216094  # 360 XR Workshop
-1211360177216098  # Summer Online 2026
 1211374929338555  # Integrating AI Fluency into Physical Chemistry through Peer Instruction Polling
 1211374929338571  # AI Coaching for Faculty Launch
 1211385006360353  # Veterans College Math Readiness Course
 1211440676010048  # adam@nd.edu's previously assigned tasks
-1211489930659695  # MS-ACMS Faculty Videos
 1211494942386612  # Evaluation of Pangram, AI Detector
 1211499735967336  # Training TAs on how to use Google Gemini to assist their grading.
 1211522983728171  # AI PD & Content Development AND Faculty Spotlights & Pedagogical AI Gallery
 1211592424221769  # Impact Tracker
-1211653962736510  # Business for Humans | Sheedy Family Program
-1211654114707733  # ND-IBM Tech Ethics Lab Video Content Development
-1211900372320318  # C2D: Cybertraining for Chemical Data scientists
-1211900373500710  # I CAN HELP Learning Modules
 1212173464199913  # Prototype Project
 1212343204566399  # ASCEND MCOB
-1212627165986472  # Borgo Laudato Si' videos
 1212638027964018  # Ultrasound Communication Video
 1212638028024693  # Stata bootcamp modules
-1212638028070139  # CIF Video
 1212660246856608  # Jim Lang Coursera Course
 1212660351308233  # Designing to Communicate: Strengthening Communication in Engineering Through Real-World Sustainability Contexts
 1212660352662527  # Romance Languages video/podcast initiative
 1213077276586762  # FCTA - Physics II
 1213077305408010  # Alyssa Neece's previously assigned tasks
-1213084870202768  # Beginning Italian 1
-1213084870202773  # SO Stats
 1213292120696334  # NEON - R&E AI
 1213292120696339  # NEON - POLS 30022 (Poly Sci)
 1213316231353035  # LAITL Faculty Fellows
 1213316247236997  # AI Summit Data Analysis
-1213393701257435  # Digital Accessibility
 1213478777903328  # Media Studio Sessions
 1213551317973102  # ODL Media Studio Sessions
 1213746954039888  # Faculty AI Incentives
-1214783923511436  # Sprint - Methods Applied: Proposal Scaffolded Support (MAPPS)
 1214783923511442  # Sprint - Free-Body Diagram Visualization and Mastery
-1214783923511446  # Sprint - Unlocking Inaccessible Korean Heritage
 1214795652576790  # Maximizing Mendoza
-1215176396318246  # Sprint - Lost in Transliteration
 1215180204869597  # Post Project Evaluation
 1215180204869602  # Asana Clean Up / Implementation
 1215180204869607  # Capacity Planning
@@ -156,8 +133,6 @@
 1215186457850727  # z-Out of Office / Vacation
 1215186457850752  # AI Academy Fall 2026
 1215342625311441  # Calc II Remodel
-1215642613575503  # EDUCAUSE Lab
-1215646180453827  # CAD 2026 - Stephen Blackburn Videos
 1215664894792864  # Time Off
 1215664894792901  # ASCEND Program
 1215987458853792  # Reimagined Class Time - Angela McCarthy - USEM: Political Behavior and Public Opinion
@@ -182,11 +157,8 @@
 1217793330575939  # ASCEND Portfolio
 1218012805723892  # ODL Internal Canvas Site
 1218014833091965  # Tech Blitz partnership with TLT (Summer Online)
-1218014833091969  # Listening Session with Students
 1218384372969057  # I-Lab Portal
-1218406245983939  # Kate the Chemist
 1218524434604030  # FCTA Writing and Rhetoric
-1219042991092233  # FA27 | Condon \\ Baseball
 1219455486433710  # Workshops, Conferences and Consultations
 1219515748522688  # Faculty Idea Exchange: AI-Aware Teaching Practices or Faculty
 1219695752745866  # Reimagined Class Time - Joe / Xiaojing - Foundations of Coding for Data and AI
@@ -204,6 +176,8 @@
 1220615072783978  # University Holidays
 1220615072783984  # ODL Internal Workshop
 1220615225505272  # St. Bahkitas Video Project
+1220678553405842  # New feature testing
+1220678553433925  # RCT Evaluation
 1204789220328740  # College BouND
 1204818761552639  # DX Course Design
 1204843864198221  # Inclusivity Modules
@@ -216,6 +190,7 @@
 1207473416887619  # Sprint: Molecular Neuroscience (Branco)
 1207678003764211  # Tim Hubbard XR Development (Summer 2024)
 1207760971753624  # Program for Inclusive Education (PIE) Videos
+1207760971753716  # FCTA - Physics I
 1207760971753720  # NDIAS Teaching Fellows - Global Catholicism
 1207760971753765  # XR Spanish Escape Room
 1207817115500015  # EIH Lab Video Series
@@ -230,6 +205,7 @@
 1208255134985014  # AI R&D Project (Online Pedagogy used as the baseline)
 1208255134985069  # Travel Safety 101
 1208335647365608  # MSAN II
+1208335647365619  # Virtual Borders
 1208345374594360  # Consultations - Nathaniel
 1208345374594366  # AI Video Series - John
 1208345374594371  # AI Video Series - Nathaniel
@@ -242,6 +218,7 @@
 1208875960377620  # Program for Inclusive Education (PIE) Video #2
 1208878713359035  # Calc I Summer Online
 1208878713359040  # 3D Environments Summer Online
+1208963580488220  # Responsible and Ethical AI
 1208981515547171  # Radio Systems MVP
 1209103283248376  # Duplicate of Lawrence Time and Capacity Tracking Part 2
 1209111135522151  # Commonalities in the Modern Irish and Jewish Experiences
@@ -249,8 +226,11 @@
 1209213189516073  # ASCEND Engineering
 1209243150458199  # PIE Video #3
 1209243150458283  # XR for Law - Car Crash
+1209298164735103  # AI for the Notre Dame Community
+1209417474929053  # Business on the Frontlines XR
 1209417479528380  # Videos for Eva
 1209419538333955  # Insect Podcast Consult
+1209679644127773  # Radio Systems Course
 1209877147787619  # Study Abroad
 1209897970646083  # Multimedia Writing and Rhetoric
 1210202036254627  # Sprint 2025: Lab Prep: Visualizing Success
@@ -259,3 +239,24 @@
 1210225716846547  # Sprint 2025 - VR in Global Health Training - Elizabeth Wood
 1210576824930050  # Spectrum X Consultation
 1211080311286428  # Diction App
+1211134268245785  # ACE Higher Powered Learning (HPL)
+1211154824956969  # Force for Good Video Project
+1211360177216094  # 360 XR Workshop
+1211360177216098  # Summer Online 2026
+1211489930659695  # MS-ACMS Faculty Videos
+1211653962736510  # Business for Humans | Sheedy Family Program
+1211654114707733  # ND-IBM Tech Ethics Lab Video Content Development
+1211900372320318  # C2D: Cybertraining for Chemical Data scientists
+1211900373500710  # I CAN HELP Learning Modules
+1212627165986472  # Borgo Laudato Si' videos
+1212638028070139  # CIF Video
+1213084870202768  # Beginning Italian 1
+1213084870202773  # SO Stats
+1213393701257435  # Digital Accessibility
+1214783923511436  # Sprint - Methods Applied: Proposal Scaffolded Support (MAPPS)
+1214783923511446  # Sprint - Unlocking Inaccessible Korean Heritage
+1215176396318246  # Sprint - Lost in Transliteration
+1215642613575503  # EDUCAUSE Lab
+1215646180453827  # CAD 2026 - Stephen Blackburn Videos
+1218014833091969  # Listening Session with Students
+1218406245983939  # Kate the Chemist
