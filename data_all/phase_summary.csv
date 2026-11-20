@@ -292,7 +292,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1209419538333955,Insect Podcast Consult,Post-Project Evaluation,4,0,1,,,,0.0,0.0,0,0,0,0.25
 1209419538333955,Insect Podcast Consult,Pre-Production,5,0,1,,,,0.0,0.0,0,0,0,0.2
 1209419538333955,Insect Podcast Consult,Production,2,2,1,2025-03-27T16:21:00.189000+00:00,2025-03-27T16:21:00.816000+00:00,0,0.0,0.0,0,0,0,0.5
-1215186457850692,Intern/Student Worker Supervising,Media Timetracking,8,0,0,,,,390.0,6.5,0,0,0,0.12
+1215186457850692,Intern/Student Worker Supervising,Media Timetracking,8,0,0,,,,510.0,8.5,0,0,0,0.12
 1212660246856608,Jim Lang Coursera Course,Analysis,3,1,1,2026-01-25T23:19:56.321000+00:00,2026-01-25T23:19:56.321000+00:00,0,0.0,0.0,0,0,0,0.33
 1212660246856608,Jim Lang Coursera Course,Design,10,0,3,,,,0.0,0.0,0,0,0,0.1
 1212660246856608,Jim Lang Coursera Course,Design Development,5,0,2,,,,0.0,0.0,0,0,0,0.2
@@ -413,7 +413,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1213551317973102,ODL Media Studio Sessions,Incoming Requests,2,0,0,,,,0.0,0.0,0,0,0,0.5
 1213551317973102,ODL Media Studio Sessions,Survey Response,3,0,0,,,,0.0,0.0,0,0,0,0.33
 1208255134985064,ODL Podcast,Launch,10,10,1,2024-09-19T13:17:44.154000+00:00,2024-11-01T15:49:05.104000+00:00,43,0.0,0.0,0,0,0,0.1
-1208255134985064,ODL Podcast,Media Timetracking (Matthew),16,0,1,,,,570.0,9.5,0,0,0,0.06
+1208255134985064,ODL Podcast,Media Timetracking (Matthew),16,0,1,,,,630.0,10.5,0,0,0,0.06
 1208255134985064,ODL Podcast,Need to Book,2,0,0,,,,65.0,1.08,16,0,0,0.5
 1208255134985064,ODL Podcast,Released,15,15,2,2025-01-09T15:56:29.710000+00:00,2026-05-04T15:05:14.625000+00:00,480,950.0,15.83,121,0,0,0.07
 1208740211406775,ODL Project Estimations,Animation & Graphic Design,11,0,0,,,,0.0,0.0,0,0,0,0.09
@@ -716,7 +716,7 @@ project_gid,project_name,canonical_phase,n_tasks,n_completed,n_assignees,first_c
 1212638027964018,Ultrasound Communication Video,Analysis,3,0,0,,,,0.0,0.0,0,0,0,0.33
 1212638027964018,Ultrasound Communication Video,Design,9,1,0,2026-04-30T14:25:03.308000+00:00,2026-04-30T14:25:03.308000+00:00,0,270.0,4.5,0,0,0,0.11
 1212638027964018,Ultrasound Communication Video,Design Development,4,0,0,,,,0.0,0.0,0,0,0,0.25
-1212638027964018,Ultrasound Communication Video,Media Timetracking,35,0,1,,,,4770.0,79.5,0,0,0,0.03
+1212638027964018,Ultrasound Communication Video,Media Timetracking,35,0,1,,,,5310.0,88.5,0,0,0,0.03
 1212638027964018,Ultrasound Communication Video,Post-Production,9,0,0,,,,0.0,0.0,0,0,0,0.11
 1212638027964018,Ultrasound Communication Video,Post-Project Evaluation,4,0,0,,,,0.0,0.0,0,0,0,0.25
 1212638027964018,Ultrasound Communication Video,Pre-Production,7,1,0,2026-06-01T14:45:52.878000+00:00,2026-06-01T14:45:52.878000+00:00,0,30.0,0.5,0,0,0,0.14
